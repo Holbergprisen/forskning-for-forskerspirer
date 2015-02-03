@@ -1,7 +1,7 @@
 {
     "output": null,
     "generator": "site",
-    "title": "Forsknings for forskerspirer",
+    "title": "Forskning for forskerspirer",
     "description": "Metodebok for Holbergprisen i skolen",
     "isbn": null,
     "extension": null,
@@ -33,7 +33,6 @@
             "google": null,
             "facebook": null,
             "twitter": null,
-            "weibo": null,
             "all": null
         }
     },

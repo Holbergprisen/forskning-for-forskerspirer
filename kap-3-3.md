@@ -1,0 +1,1 @@
+#Å stille spørsmål

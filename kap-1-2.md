@@ -1,3 +1,5 @@
+#Hvordan stille gode forskningsspørsmål
+
 Gode forskere stiller gode spørsmål. Mye av forskningsprosessen handler nettopp om å finne spørsmålene som gir oss ny kunnskap dersom vi prøver å finne svaret på dem. Gode spørsmål er ikke nødvendigvis det samme som vanskelige spørsmål; de kan også være enkle eller tilsynelatende selvinnlysende. Noen ganger må forskere stille spørsmål viss svar kan ha en viss nytte eller fortjeneste i samfunnet, andre ganger får forskere anledning til å stille spørsmål utfra sin egen faglige interesse. Når dere skal i gang med dette forskningsprosjektet står dere fritt til å forske på noe som dere tror kan være nyttig for andre å vite noe om, eller undersøke et tema som bare virker interessant i seg selv.
 
 Forhåpentligvis sitter dere nå med en liste med ideer og spørsmål, kanskje dere til og med har en følelse for hva dere kommer til å ende opp med. Det neste skrittet dere må ta er å gjøre dette til en et god forskningsspørsmål som er avgrenset, presis, tydlig og spisset.
