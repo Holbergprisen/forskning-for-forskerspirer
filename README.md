@@ -4,7 +4,7 @@ Dette heftet er en starthjelp til å forske innenfor humanistiske og samfunnsvit
 
 _Lykke til med forskningsprosjektet!_ 
 
-Knut Melvær, desember 2014
+[Knut Melvær](http://knutmelvaer.no), desember 2014
 
 [![Olivia Høegh-Omdal Paulsen og Eline Loe Rønvik fra Elvebakken videregående skole sammen med Holbergprisvinner Michael Cook og næringsminister Monica Mæland. Foto: Marit Hommedal / Scanpix / Holbergprisen][3]][4]
 Vant Holbergprisen i skolen 2014: Olivia Høegh-Omdal Paulsen og Eline Loe Rønvik fra Elvebakken videregående skole sammen med Holbergprisvinner Michael Cook og næringsminister Monica Mæland. Foto: Marit Hommedal / Scanpix / Holbergprisen
