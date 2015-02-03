@@ -1,7 +1,7 @@
 # Spørreskjema: Det spørs på skjema!
 
-[![Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «pantograf» og hullkort. Dette er fra den amerikanske folketellingen rundt 1940.][1]
-Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «[pantograf][3]» og hullkort. [Dette er fra den amerikanske folketellingen rundt 1940.][4
+![Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «pantograf» og hullkort. Dette er fra den amerikanske folketellingen rundt 1940.][1]
+Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «[pantograf][3]» og hullkort.
 
    [1]: http://jekyll-hyde.no/holberg/wp-content/uploads/2014/12/442405307391-300x236.jpeg
    [3]: https://snl.no/pantograf%2Fapparat_for_å_gjengi_tegninger

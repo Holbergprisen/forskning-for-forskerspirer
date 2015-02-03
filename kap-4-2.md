@@ -80,7 +80,12 @@ Alle kvantitative analyser begynner med et strukturert datamateriale. Det først
 
 I statistikkprogrammer er vi nødt til å kode disse spørsmålene og svarene til variabler og verdier. Med andre ord, vi må gi spørsmålene og svarene en tallverdi. Selv om et spørsmål ofte tilsvarer en variabel, så kan man tenke seg at det også kan bli flere variabler. For eksempel kan vi gjøre spørsmål 1 i tabellen til minst to variabler:
 
-**Variabel 1**: Antall sosiale medier respondentene er på. **Verdier**: Fra 0 til 5. **Variabel 2**: Er respondenten på Facebook? **Verdier**: 1=Er på Facebook; 2=Er ikke på Facebook.
+> **Info** Variabel 1: Antall sosiale medier respondetene er på. Verdier: Fra 0 til 5.
+
+     
+
+> **Info** Variabel 2: Er respondenten på Facebook?  Verdier: 1=Er på Facebook; 2=Er ikke på Facebook.
+
 
 Eksempel på hvordan en kodebok kan se ut:
 
