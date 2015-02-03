@@ -9,7 +9,8 @@
         "customtheme",
         "quizzes",
         "richquotes",
-        "autocover"
+        "autocover",
+        "mermaid"
     ],
     "pluginsConfig": {
         "fontSettings": {
