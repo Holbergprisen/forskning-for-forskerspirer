@@ -8,7 +8,8 @@
     "plugins": [
         "customtheme",
         "quizzes",
-        "youtube"
+        "richquotes",
+        "autocover"
     ],
     "pluginsConfig": {
         "fontSettings": {
