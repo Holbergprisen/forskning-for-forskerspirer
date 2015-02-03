@@ -1,14 +1,12 @@
-<a href="http://jekyll-hyde.no/holberg/wp-content/uploads/2015/01/pwvcbb.jpg"><img class="  wp-image-395 size-full alignnone" src="http://jekyll-hyde.no/holberg/wp-content/uploads/2015/01/pwvcbb.jpg" alt="Kom i gang!" width="512" height="340" /></a>
+![440599410769][1]
 
-I denne delen hjelper vi dere med å komme i gang med forskningsprosjektet. Det viktigste er å begynne med å lage et godt forskningsspørsmål. Det kan gjøres på forskjellige måter. Dere kan også spørre forskere om hjelp, men det er lurt å ha en god idé om hva dere vil forske på. Det finnes ulike måter som gjør det enklere å komme i gang. Det kan også være lurt å lage hypoteser og delspørsmål.
-<div class="panel callout radius">
-<h3>Kom i gang!</h3>
-<ul>
-    <li>Velg et tema som dere vil lære mer om; alt kan bli interessant om man bare dykker dypt nok ned i det. Bruk temalisten og se på tidligere prosjekter for inspirasjon.</li>
-    <li>Begynn med å skrive ned ideer for dere selv, diskuter dem i gruppen.</li>
-    <li>Prøv å skrive et avgrenset forskningsspørsmål.</li>
-    <li>Lag en ny mappe på datamaskinen eller i <a href="http://docs.google.com" target="_blank">Google Docs</a>. Opprett en ny tekstfil og skriv ett avsnitt hvordan dere kom frem til forskningsspørsmålet. Dere er allerede i gang med forskningsrapporten!</li>
-    <li>Finn ut mer om temaet ved litteratursøk og ved å spørre forskere.</li>
-    <li>Skriv kort ned i forskningsrapporten om hvorfor dere valgte dette forskningsspørsmålet.</li>
-</ul>
-</div>
+Du leser nå i et digitalt hefte som vi har laget for elever i videregående skole som skal gjøre et humanistisk og\eller et samfunnsvitenskapelig forskningsprosjekt. Det er laget av Holbergprisen i skolen, og er spesielt tilpasset forskerkonkurransen som Holbergprisen arrangerer hvert år. Innholdet passer også godt for skoleklasser som ikke deltar i konkurransen, men som vil gjennomføre et forskningsprosjekt. Dere finner fremdeles mange nyttige tips og innsikter i [det forrige metodeheftet ble laget  av Gisle Andersen i 2008][2]. I dette heftet har vi lagt mer vekt på hvordan dere skal komme i gang med de forskjellige delene et forskningsprosjekt gjerne består av. Det har også lagt litt større vekt på humanistiske forskningsmetoder. **** **** Dette heftet er en starthjelp til å forske innenfor humanistiske og samfunnsvitenskapelige fag. Bak hver prosedyre og hver prinsipp ligger det årevis med diskusjon og ulike perspektiver som vi ikke har mulighet å gå inn på her. Forskningslandskapet er alltid i endring og det som virker lurt i dag, trenger ikke nødvendigvis å være det i morgen. Det er allikevel noe som ikke ser ut til å forandre seg. De fleste forskere gjør det de gjør fordi de er nysgjerrige og søker kunnskap som kan hjelpe oss til å forstå verden rundt oss bedre. Det kan være vanskelig, tidkrevende og frusterende, men følelsen av å finne ut noe som ingen visste fra før, eller kunne knuse en allment akseptert myte er alltid verdt strevet. Med dette heftet i bakhånd, håper vi at dere får smake på denne erfaringen.
+
+_Lykke til med forskningsprosjektet!_ Knut Melvær, desember 2014
+
+[![Olivia Høegh-Omdal Paulsen og Eline Loe Rønvik fra Elvebakken videregående skole sammen med Holbergprisvinner Michael Cook og næringsminister Monica Mæland. Foto: Marit Hommedal / Scanpix / Holbergprisen][3]][4] Vant Holbergprisen i skolen 2014: Olivia Høegh-Omdal Paulsen og Eline Loe Rønvik fra Elvebakken videregående skole sammen med Holbergprisvinner Michael Cook og næringsminister Monica Mæland. Foto: Marit Hommedal / Scanpix / Holbergprisen
+
+   [1]: http://jekyll-hyde.no/holberg/wp-content/uploads/2014/12/440599410769.png
+   [2]: http://www.holbergprisen.no/images/materiell/2008_skole_elevkompendium.pdf (Metodehefte for Holbergprisen i skolen)
+   [3]: http://jekyll-hyde.no/holberg/wp-content/uploads/2015/01/443018826210-1024x676.jpeg
+   [4]: http://www.holbergprisen.no/holbergprisen-i-skolen/vinner-2014
