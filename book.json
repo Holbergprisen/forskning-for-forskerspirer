@@ -43,7 +43,7 @@
             "top": 36,
             "bottom": 36
         },
-        "headerTemplate": "Forskning for forskerspirer",
-        "footerTemplate": "Holbergprisen i skolen 2015"
+        "headerTemplate": _SECTION_,
+        "footerTemplate": _PAGENUM_
     }
 }
