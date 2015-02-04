@@ -5,3 +5,7 @@ Forskningsspørsmålet er presiseringen av det dere ønsker å finne ut. Det kan
 ## hypotese
 
 Et spørsmål som vi bruker for å teste spesikke påstander. Vi prøver å avkrefte dem.
+
+## Holbergprisen i skolen
+
+HiS er fprjgsepfj sef
