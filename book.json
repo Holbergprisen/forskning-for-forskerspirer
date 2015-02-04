@@ -7,10 +7,7 @@
     "extension": null,
     "plugins": [
         "customtheme",
-        "quizzes",
         "richquotes",
-        "autocover",
-        "mermaid"
     ],
     "pluginsConfig": {
         "fontSettings": {
@@ -37,7 +34,7 @@
         }
     },
     "pdf": {
-        "pageNumbers": false,
+        "pageNumbers": true,
         "fontSize": 12,
         "paperSize": "a4",
         "margin": {
@@ -46,7 +43,7 @@
             "top": 36,
             "bottom": 36
         },
-        "headerTemplate": null,
-        "footerTemplate": null
+        "headerTemplate": "Forskning for forskerspirer",
+        "footerTemplate": "Holbergprisen i skolen 2015"
     }
 }
