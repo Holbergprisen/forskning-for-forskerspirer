@@ -4,4 +4,6 @@ Dere vil merke det at det er forholdvis enkelt å skrive ned bakgrunnen for pros
 
 Det er ikke alltid lett å komme med definitive svar eller forklaringer. Vi er ofte vant til å tenke at noe har kun én årsak eller grunn, men i virkeligheten har det meste flere årsaker. Vår oppgave blir å sile ut hva som virker mest relevant, sannsynlig og nødvendig for å forstå noe bedre. Om dere synes dette er utfordrende kan dere tenke på hva dere ville gjort dersom dere skulle forskere videre på prosjektet. Hva ville dere undersøkt nærmere og *hvorfor*? 
 
-For oss som leser forskningsrapportene i *Holbergprisen i skolen* er det utrolig givende å få innblikk i hvordan dere har tenkt, og hvordan dere har møtt de utfordringene som gjerne kommer opp i forskningsprosessen. Vi som holder på med forskning kan ofte kjenne oss igjen i de problemstillingene dere møter, og det betyr også at vi kan lære en hel del av dere, både når det kommer til forskningsprosjektene i seg selv, men også av de erfaringene dere gjør i forberedelsene, datainnsamling og analysen. 
+For oss som leser forskningsrapportene i *Holbergprisen i skolen* er det utrolig givende å få innblikk i hvordan dere har tenkt, og hvordan dere har møtt de utfordringene som gjerne kommer opp i forskningsprosessen. Vi som holder på med forskning kan ofte kjenne oss igjen i de problemstillingene dere møter, og det betyr også at vi kan lære en hel del av dere, både når det kommer til forskningsprosjektene i seg selv, men også av de erfaringene dere gjør i forberedelsene, datainnsamling og analysen.
+
+
