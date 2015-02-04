@@ -16,9 +16,9 @@ En annen fordel med å kontakte en forsker er dere får testet om forskningsspø
 
 Når dere tar kontakt med en forsker er det viktig å huske på:
 
-  * Spør om noe konkret, ikke be forskeren gjøre jobben for dere
-  * Husk å følge opp kommunikasjonen, takk forskeren for hjelpen (også i rapporten)
-  * Det er også fint å sende rapporten til de som har hjulpet dere, de er nok interesserte i hva dere har funnet ut.
+  [ ] Spør om noe konkret, ikke be forskeren gjøre jobben for dere
+  [ ] Husk å følge opp kommunikasjonen, takk forskeren for hjelpen (også i rapporten)
+  [ ] Det er også fint å sende rapporten til de som har hjulpet dere, de er nok interesserte i hva dere har funnet ut.
 
 ## Legg fordommene igjen hjemme
 
