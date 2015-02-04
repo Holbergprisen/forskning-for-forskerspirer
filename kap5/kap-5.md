@@ -1,1 +1,5 @@
-#Forskning må formidles
+# Forskningsformidling
+
+Forskning bør deles med omverdenen. Forskere deler forskningen først og fremst med hverandre. Forskning skjer ikke i et vakuum (vel, bortsett fra de som forsker i verdensrommet), men må leses, kritiseres og diskuteres av flere. Det vitenskapelige ligger derfor ikke bare i metodene vi bruker, men også i hva vi gjør med resultatene.
+
+Den vanligste formen å dele forskningen sin med andre er å skrive en vitenskapelig artikkel eller en bok. Her gjør man rede for bakgrunnen for forskningsprosjektet, fremgangsmåten, resultatene og hva de innebærer for forskningsfeltet. Forskere har gjerne latt kolleger lese og kommentere utkastet etterhvert. Når manuskriptet er klart sendes det inn til et vitenskapelig tidsskrift. Redaktøren av tidsskriftet leser vanligvis gjennom artikkelen og vurderer om det passer inn i tidsskriftet. Dersom det gjør det sender redaktøren artikkelen til andre eksperter (gjerne kalt <i>fagfeller</i>) innenfor forskningsfeltet for faglig kvalitetssikring. Denne prosessen er vanligvis anonym. Fagfellene vurderer om det er svakheter eller uklarheter i forskningsrapporten. Ofte sendes den tilbake til forskerene for revidering. Når redaktøren og fagfellene føler seg trygg på at arbeidet er skikkelig og forskningsresultatene kan den publiseres.

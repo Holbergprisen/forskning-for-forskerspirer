@@ -7,6 +7,12 @@ Ordet «vitenskap» har vi fra det latinske ordet _scientia_ som betyr «kunnska
 
 Det er viktig å tenke på at slike idémyldringsspørsmål ofte kan være ganske store og ambisiøse. Da blir neste steg å omformulere spørsmålet slik at man får et prosjekt som kan gjennomføres. Slik er det ofte i vitenskapen også. For å kunne svare på de virkelig store spørsmålene, må man ofte svare på de mindre spørsmålene først. Oppgaven blir derfor å avgrense tema og prosjektet til et konkret forskningsspørsmål. Et forskningsspørsmål er et spørsmål som det er mulig å belyse innenfor den tiden dere har til å gjennomføre prosjektet. Dere trenger heller ikke å hugge denne inn i stein (det ville tatt for lang tid!). Når man går i gang med prosjektet, må man nemlig være åpen for at forskningsspørsmålet må forandres litt på. Det er ganske vanlig, men ett sted må man jo begynne.
 
+## Idémyldring
+
+[ ] Sett stoppeklokken på fem minutter. Skriv ned alt du kommer på som du tror kan være interessant å forske på. Samle og diskutér alle punktene i gruppa. Rangér gjerne de som virker mest interessant.
+[ ] Bruk maks et kvarter på å se gjennom sidene for kultur og samfunn på forskning.no. Skriv ned tema du synes virker interessante. Legg merke til boksen med «relaterte emner», kanskje finner du noe spennende der?
+[ ] Det er også lov å la seg inspirere av tidligere prosjekter i Holbergprisen i skolen.
+
    [2]: http://jekyll-hyde.no/holberg/1-kom-i-gang-med-forskningen/1-2-hvordan-stille-gode-forskningssporsmal/ (1.2 Hvordan stille gode forskningsspørsmål)
 
 [^1]: På norsk stammer «vitenskap» fra det tyske «Wissenschaft». Det tyske ordet ble brukt til å oversette det latinske «scienta»

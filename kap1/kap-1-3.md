@@ -23,3 +23,7 @@ Når dere tar kontakt med en forsker er det viktig å huske på:
 ## Legg fordommene igjen hjemme
 
 Vi har alle fordommer og forestillinger om hvordan verden henger sammen. Fordommer trenger ikke bare å være negative, og kan til og med være nyttige for å raskt kunne ta avgjørelser og valg. I forskningen kan slike fordommer ofte komme i veien for det man skal prøve å finne ut. Selv om ofte forsknings kan bekrefte det vi allerede vet, så bør man gå inn med et åpen sinn. En måte å tvinge seg selv til å gjøre dette er for omformulere til det man tror er tilfelle, til det motsatte. Det er også lurt å formulere spørsmålet åpent.
+
+[ ] Bruk maks to timer i gruppa på finne relevant litteratur og tidligere forskning.
+[] Det kan være lurt å bruke mesteparten av tiden på å finne en forsker som kan hjelpe dere litt på veien.
+
