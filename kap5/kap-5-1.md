@@ -8,6 +8,9 @@ Om dere har anledning og venner med tid til overs, kan det være lurt å la dem 
 
 Det å gi fra seg forskningsrapporten for at noen andre skal lese og være kritiske til det vil kanskje føles litt skummelt og slitsomt. Spesielt når dere har jobbet såpass mye med det som dere har. Den følelsen deler dere med nesten alle som forsker i akademia. Man kan jobbe flere år med et forskningsprosjekt og skrive en eller flere artikler om hva man har funnet ut. Denne forskningsartikkelen skal så sendes inn til et tidsskrift. Redaktøren i tidsskriftet sender denne til andre forskere som helst er eksperter på forskningsfeltet. De går igjennom artikkelen og vurderer alt fra metode, teori og formidlingen av forskningen. Denne prosessen er vanligvis anonym. Det er denne måten vi kvalitetssikrer at forskningen blir best mulig. Det er faktisk noe av det viktigste vi gjør som forskere.
 
+## Bruk av sitater og eksempler fra datamaterialet
+
+La aldri et sitat står for seg selv. En grei regel er at et avsnitt aldri skal slutte med et sitat. Dere må forklare hva dette sitatet forteller oss. Det kan være greit å se etter sitater som tydelig belyser det dere spør etter i forskningsspørsmålet. Det samme gjelder grafer, tabeller, bilder og andre utdrag fra selve datamaterialet. Det er kun interessant når dere gjør rede for hvordan det belyser forskningsspørsmålet.
 
 ## Kildehenvisninger og referanser
 
