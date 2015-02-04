@@ -1,5 +1,5 @@
-God forskning starter med gode spørsmål
-=======================================
+# God forskning starter med gode spørsmål
+
 
 Ordet «vitenskap» har vi fra det latinske ordet _scientia_ som betyr «kunnskap».[^1] Når det snakkes om «forskning» er det gjerne underforstått at man driver med vitenskap. Ny kunnskap kan ta mange former. Det kan være å finne svar på noe vi ikke visste om verden fra før, eller det kan være å finne et bedre svar på noe som hadde blitt besvart utilfredsstillende fra før. Forskning kan også gå ut på å gå en etablert forklaring på noe i sømmene, for å se om noe egentlig henger sammen på den måten vi tidligere har trodd. Gjennom forskning kan man også finne ut fremgangsmåter som gjør andre forskere bedre i stand til å finne ny kunnskap. De fleste forskere er drevet av en nysgjerrighet og et ønske om å forstå universet bedre. Det er denne nysgjerrigheten dere bør begynne med å vekke opp. Det er ikke alltid like lett. Heldigvis finnes det måter å lokke frem denne nysgjerrigheten på. Når dere skal velge et tema kan det derfor være lurt å starte med en idémyldring. Siden Holbergprisen i skolen handler om humaniora og samfunnsvitenskap bør dere tenkte på tema som har med menneskelig samfunn og kultur å gjøre. Det er ofte lurt å starte en idémyldring med at hver person på gruppa skriver ned alle tema og spørsmål for seg selv. Så samler man opp alle forslagene felles i gruppen og diskuterer hva som virker mest interessant å jobbe med.
 
@@ -9,9 +9,9 @@ Det er viktig å tenke på at slike idémyldringsspørsmål ofte kan være gansk
 
 ## Idémyldring
 
-[ ] Sett stoppeklokken på fem minutter. Skriv ned alt du kommer på som du tror kan være interessant å forske på. Samle og diskutér alle punktene i gruppa. Rangér gjerne de som virker mest interessant.
-[ ] Bruk maks et kvarter på å se gjennom sidene for kultur og samfunn på forskning.no. Skriv ned tema du synes virker interessante. Legg merke til boksen med «relaterte emner», kanskje finner du noe spennende der?
-[ ] Det er også lov å la seg inspirere av tidligere prosjekter i Holbergprisen i skolen.
+- Sett stoppeklokken på fem minutter. Skriv ned alt du kommer på som du tror kan være interessant å forske på. Samle og diskutér alle punktene i gruppa. Rangér gjerne de som virker mest interessant.
+- Bruk maks et kvarter på å se gjennom sidene for kultur og samfunn på forskning.no. Skriv ned tema du synes virker interessante. Legg merke til boksen med «relaterte emner», kanskje finner du noe spennende der?
+- Det er også lov å la seg inspirere av tidligere prosjekter i Holbergprisen i skolen.
 
    [2]: http://jekyll-hyde.no/holberg/1-kom-i-gang-med-forskningen/1-2-hvordan-stille-gode-forskningssporsmal/ (1.2 Hvordan stille gode forskningsspørsmål)
 
