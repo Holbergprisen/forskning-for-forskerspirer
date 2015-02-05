@@ -6,12 +6,15 @@
     "isbn": null,
     "extension": null,
     "version": "2.0.x",
-    "plugins": [],
+    "plugins": ["wabtheme"],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
             "family": "sans",
             "size": 2
+        },
+        "wabtheme": {
+            "book.css": "css/app.css"
         }
     },
     "variables": {},
