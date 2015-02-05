@@ -1,20 +1,25 @@
 body, p, ul, li {
-    font-family: helvetica !important;
+    font-family: Helvetica;
     font-size: 16px;
 }
-p {
-
-    width: 100%;
-}
-a {
-    color: #a32e8b !important;
+a:link, a:visited {
+    color: #a32e8b;
 }
 img {
-    /* float: right; */
-    width: 53%;
-    margin: 0em 0% 1em 1em;
     border-radius: 3px;
 }
+img.left {
+    float: left;
+    margin: 0 1em 1em 0;
+}
+img.right {
+    float: right;
+    margin: 0 0 1em 1em;
+}
+img.medium {
+    width: 53%;
+}
+
 h1, h2, h3 {
     color: #a32e8b;
 }
