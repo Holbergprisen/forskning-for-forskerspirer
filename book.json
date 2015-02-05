@@ -7,13 +7,13 @@
     "extension": null,
     "plugins": [
         "customtheme",
-        "richquotes"
+        "richquotesbooster"
     ],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
             "family": "sans",
-            "size": 1
+            "size": 2
         },
         "customtheme": {
             "css": [
