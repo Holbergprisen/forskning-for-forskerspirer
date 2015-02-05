@@ -6,7 +6,7 @@
     "isbn": null,
     "extension": null,
     "version": "2.0.x",
-    "plugins": ["customtheme@0.1.9", "-mathjax"],
+    "plugins": ["customtheme@0.1.9", "-mathjax", "-autocover"],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
