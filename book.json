@@ -16,6 +16,7 @@
             "css": ["css/app.css"]
         }
     },
+    "version" : "2.0",
     "variables": {},
     "links": {
         "sidebar": {
