@@ -6,4 +6,12 @@ Forskere tar i bruk kvantitative metoder når de ønsker tallfeste noe, eller «
 
 Med kvalitative metoder søker vi først og fremst å forstå materialet. Dersom man skal forske på et nytt felt er det ofte nødvendig å begynne med kvalitative metoder for å få en idé om hva som er viktig, sentralt eller — på den andre siden — irrelevant og perifert. Med kvalitative metoder forsøker vi å se ting inn i en sammenheng, fra visse teoretiske perspektiv og med forskjellige tolkningsstrategier.
 
+## Lesetips
+
+-   [_Samfunnsvitenskapelige metoder_ av Sigmund Grønmo, 2004](http://bibsys-primo.hosted.exlibrisgroup.com/NB:BIBSYS_ILS961798580)
+-   [_Fortida er ikke hva den en gang var_ av Knut Kjeldstadli, 1999](http://urn.nb.no/URN:NBN:no-nb_digibok_2008090300018)
+-   [_Metode i mediefag_, av Østbye, Helland, Knapskog og Larsen, 2013](http://bibsys-primo.hosted.exlibrisgroup.com/NB:BIBSYS_ILS132416719)
+-   [_Deltagende observasjon_, av Katrine Fangen, 2004](http://urn.nb.no/URN:NBN:no-nb_digibok_2011041308072)
+
+
 [1]: ../images/onedoes.jpg
