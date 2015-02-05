@@ -1,59 +1,42 @@
-# Å stille spørsmål
+# Intervjuet som forskningsmetode
 
-Man kan lære mye av å bare utforske og prøve ut et eksisterende spørreskjema. Dere vil fort se at det finnes mange måter å utforme spørsmål på. Fra de enkle «ja, nei, vet ikke»-spørsmål til holdningsskalaer med opp til ti punkter. Det finnes også de mer kreative utformingene hvor man bes om å plassere følelser på en todimensjonal akse. Ingenting er tilfeldig i et godt spørreskjema. Det kan ligge mye teori og diskusjon bak ordlyden, rekkefølgen og plasseringen av spørsmål (en skitten hemmelighet i akademia er at noen ganger er det _ikke_ særlig tankearbeid bak slike skjema). Hensikten er hele tiden å måle det man hevder man skal måle.
+Dybdeintervju, eller kvalitative intervju, er en veldig god framgangsmåte dersom dere vil gå i dybden av et tema, eller ikke helt hva som er relevante spørsmål. Slik som med spørreskjema finnes det også her mange teknikker og hensyn man kan og må benytte seg av. Det er også her viktig å ha tenkt igjennom på forhånd mulige spørsmål og temaer man vil berøre. Siden man i nesten alle dybdeintervju selv er til stede under datainnsamlingen, må man også være oppmerksom på hva det innebærer å innta rollen som en intervjuer.
 
-Det første man skal tenke på i forbindelse med hvert spørsmål er hva det er man skal måle. Er det om respondentens _person_ (for eksempel kjønn, alder, utdanning eller bosted). Er det om respondentens _holdninger_ (for eksempel om politiske, religiøse, etiske eller kulturelle spørsmål)? Er det om respondentens _adferd_ (for eksempel mat-, trenings-, underholdnings- eller arbeidsvaner). Er det om respondentens _valg (_for eksempel i en gitt økonomisk situasjon)? Er det om respondentens _tro_ (for eksempel om guder, hellige bøker eller religiøse problemstillinger? For alle disse eksemplene finnes det mange hensyn og mange fremgangsmåter.
+Det første man gjør før man går i gang med datainnsamlingen er å lage en intervjuguide. Dette er en «huskeliste» som dere bruker når dere går i gang med intervjuet. Det er greit at man har minst mulig å huske på og gjøre slik at man klarer å følge med på hva informanten sier, og komme på gode oppfølingsspørsmål underveis. Hensikten med en intervjuguide er derfor å ha en oversikt over hva dere skal spørre om. Det er ingenting i veien for at dere forandrer på denne intervjuguiden underveis, og det er heller ikke noen krise om dere får noe særlig svar på alle punktene dere har satt opp (det kan jo være vel så interessant!).
 
-Det er ingen som forventer at dere skal lage det perfekte spørreskjemaet. Den eneste måten å bli god på dette er å starte et sted. Dere kommer antagelivis til å være 120 % bedre på kvantitative forskningsmetoder etter dere har gjennomført den første innsamlingen. Poenget er at dere skal være klar over hvor utfordringene ligger. Dere skal også være klar over at dere ikke kan bruke spørreskjemaet til å si hva som helst for sikkert. Det er heller ikke poenget. Poenget er å få en følelse for hva forskere gjør og hvor givende det er å lage sitt eget datamateriale. Fordi det _er _gøy!
+I arbeidet med intervjuguiden bør dere også tenke på hvem dere skal intervjue. Om dere har et historisk prosjekt, så kan det være nyttig å intervjue personer som selv levde, eller kjente noen i den tiden dere er interesserte i. Om dere skal forske på en arbeidsplass eller en institusjon kan det være nyttig å snakke med representanter fra forskjellige grupper om forskjellige ting. En leder av en bedrift har kanskje andre oppfatninger om hva som skjer der, enn en arbeider. Å være en beboer på et eldrehjem fortoner seg annereldes enn å ha det som en arbeidsplass. Med dybdeintervju kan man utforske slik forskjeller og likheter på en inngående og interessant måte.
 
-Bruk maks et kvarter og finn ut:
+I intervjuguiden er det lurt å legge opp til spørsmål som krever at informanten må tenke og begrunne svarene sine. Man kan stille ja-nei-spørsmål, men da bør man komme med oppfølgingsspørsmål som for eksempel «hvorfor det?», «kan du utdype?», «mener du alltid dette?» eller «har du noen gang ment det motsatte?». Det kan være greit å skrive opp sånne generelle fraser i intervjuguiden også, siden det kan være vanskelig å komme på av seg selv underveis. Det er nemlig når folk må begrunne sine holdninger og standpunkt de virkelige interessante tingene dukker opp, det er disse tingene som vil hjelpe dere å forstå og belyse forskningsspørsmålet: Refleksjoner som gjerne ikke blir uttalt i det daglige.
 
-  * Hva er de tre mest interessante spørsmålene dere ønsker å belyse med spørreskjemaet?
-  * Hvilken bakgrunnsinformasjon _må _dere ha?
-  * Vil det være enklest å få tak i respondenter med et skjema på papir eller via web?
-  * Hvor lang tid skal dere gi respondentene til å svare? Dere skal ha tid til å gå igjennom datamaterialet også.
+Hvordan avtale et intervju:
 
-Lenker til spørreskjematjenester på web
+  * Fortell kort hvem dere er, hva dere ønsker å finne ut, og hvor lang tid dere regner med intervjuet skal ta.
+  * Det kan være greit å avtale i god tid, men husk å bekreft avtalen et par dager i forveien.
+  * Folk er travle. Regn med at ting kan bli utsatt.
+  * Vær hyggelige og husk at folk som stiller på intervju gjør _dere_ en tjeneste.
+  * Før dere møter til intervju, sjekk at utstyret er i orden
 
-  * Skjemaker (skjemaker.uib.no) (Får de tilgang på denne?)
-  * SurveyMonkey
-  * Wufoo
-  * Google Docs
+## Ha folkeskikk, hold kjeft og husk batterier!
 
-Dersom dere bruker spørreskjema over web vil dere som oftes kunne velge mellom forskjellige spørsmålstyper. Som dere sikkert vet finnes det forskjellige måter å oppgi et spørsmål og svaralternativer på. Dette kan dere finne mye mer om i metodelittatur, men her er de viktigste å vite om:
+I begynnelsen av intervjuet, og helst når dere rekrutterer informanter er det viktig at dere er åpne og ærlige om hva dere holder på med, hva dere ønsker å finne ut, og hvordan dere har tenkt å bruke intervjuene. Dere skal ha et såkalt _informert samtykke_ fra informantene, det vil si at de skal ha forstått hva de er med på. Det er også vanlig å si at de når som helst, også under intervjuet, kan trekke seg, og at de vil få mulighet til å se hvordan intervjuet har blitt brukt i teksten før dere leverer den inn. Informanten gjør dere en tjeneste ved å stille opp, og derfor er det viktig at dere opptrer med respekt og folkeskikk.
 
-**Spørsmål med gjensidig utelukkende svaralternativer**
+I nesten alle intervjusituasjoner, spesielt dersom man ikke har gjort det noe særlig før, oppstår pinlige situasjoner der man kan bli flau og usikker. De fleste av oss vil i slike situasjoner være veldig opptatt av hvordan vi fremstår for den andre, unngå å si noe som vil opprøre eller provosere samtalepartneren vår. Det kan være nyttig å tenke at dersom en person først har takket ja til å la seg intervjue, så er sjansen stor  for at den personen har forståelse for dere ikke er ferdig utdanna feltarbeidere. Den sosisale usikkerheten man kanskje føler på når man er fersk intervjuer, vil man antagelivis finne hos de man intervjuer også. Det kan også hjelpe å tenke på folk flest synes det er litt stas når noen er såpass interessert i hva de har å si, at de kommer drassende med notatblokk og lydopptaker.
 
-Eksempel: Hva er ditt hovedmål? (1) Nynorsk, (2) Bokmål, (3) Annet morsmål: (skriv inn)
+Om dere tenkte at dere skulle skrive ned alle svarene under intervjuet, så anbefaler jeg at dere skriver ned den tanken på et papir, tar den med ut i skolegården og brenner den opp (etter tillatelse fra rektor selvsagt). Med mindre dere er utrolig gode til å multitaske og skriver fortere enn dere klarer å snakke, så vil det ikke gå bra. Et dybdeintervju må spilles inn. Dere trenger med andre ord en dings som kan ta opp lyd. Før dere møter opp på det avtalte tidspunktet bør dere ha god kjenskap til hvordan denne dingsen virker og ha med en dings til i bakhånd. Det beste er om dere får låne en digital lydopptaker, men de fleste smart-telefoner har også mulighet for å gjøre lydopptak (se etter apper som _Voice Recorder _eller_ diktafon_). Det er veldig lurt sette på lydopptak på telefonen sin samtidig som man tar lyden opp fra en annen kilde – bare husk å sette den i flymodus slik at den ikke forstyrrer under intervjuet. Tro meg, det vil ikke skje noe mer interessant ute i verden enn det som skjer under det intervjuet.
 
-**Spørsmål med flervalgsalternativer**
+Det neste som er lurt å tenke på er at et dybdeintervju på mange måter fortoner seg som en vanlig samtale, men det er ikke det. Det er helt normalt å være nervøs, stressa og spent før man går i gang med intervjuet. Det er gjerne en person man ikke kjenner, kanskje man skal spørre om litt personlige ting, kanskje personen er autoritær eller kommer fra en annen bakgrunn. Det som veldig ofte skjer når vi er usikre i en sosial situasjon er at vi vil kompansere for pinlig stillheter eller prøve å legge svar i munnen på den man intervjuer. Derfor er en av de beste intervjuteknikkene jeg vet om: Hold kjeft!
 
-Eksempel: Hvilke av disse strømmetjenestene bruker du? (kryss av for de som passer) [ ] Spotify, [ ] WiMP, [ ] YouTube, [ ] Netflix, [ ] Sumo, [ ] NRK.no, [ ] Andre
+Husk at de spørsmålene som dere har klekt ut, grunnet på og diskutert nøye kan være noe informanten ikke har tenkt så nøye på før. Det kan også være vanskelig å komme på hva man skal svare. Ofte trenger man litt tid til å tenke seg om. Det er derfor veldig vanlig at det blir noen stille pauser under et intervju. Selv om informanten raskt sier «vet ikke», gi gjerne litt mer tid uten å si noe. Som oftes kommer det noe allikevel. Slike stille pauser kan også være en mulighet for deg å se kjapt igjennom intervjuguiden, skrive ned noen notater eller tenke på neste spørsmål.
 
-**Spørsmål med holdningskala**
+** Husk! Ofte vil den du intervjuer prøve å gi deg de svarene hun eller han antar du vil ha. Om dere legger merke til at dette skjer kan dere spørre oppfølingsspørsmål som for eksempel «mener du alltid dette?», «har du noen motforestillinger» eller «tror du andre ville sagt det samme?».**
 
-Eksempel: Bør det være obligatorisk med sidemål i norsk skole?
+## Ha det hyggelig!
 
-  1. Ja, absolutt
-  2. Det bør helst være det
-  3. Er verken for eller i mot
-  4. Det er ikke så nødvendig
-  5. Nei, absolutt ikke
+Det vil ofte være lurt å skape en så trygg og hyggelig stemning rundt intervjuet som mulig. Det er bedre at dere spør om å få lov til å komme hjem til informanten, eller avtale å møtes i uformelle omgivelser. Det kan for eksempel være en kafé, en park eller en annen sosial arena. Det er alltid fint med te, kaffe eller noe annet å drikke (skaper naturlige pauser). Vær litt oppmerksom på at mye støy i nærheten kan ødelegge lydopptaket, så det kan være lurt å teste litt på forhånd. Om dere har planlagt å snakke om ting som man gjerne ikke vil snakke om i det offentlige rom, kan det hende at dere bør revurdere tematikken siden vi i _Holberprisen i skolen _må ta visse forskningsetiske forhåndsregler. Med andre ord, å se for seg hvordan det vil være å svare på spørsmål på et offentlig sted kan være en måte å vurdere hvorvidt man har med personsensitive data å gjøre.
 
-**Åpne spørsmål**
+Etter intervjuet
 
-Eksempel: Er du bekymret for klimaendringene? Skriv kort om hvorfor hvorfor ikke?
-
-Tenk dere godt om når dere lager spørsmålene:
-
-  * Er spørsmålstillingen entydig, eller kan den (mis)forstås på flere måter?
-  * Er spørsmålet ledene eller tungt på den ene siden?
-  * Fanger dere opp de som ikke kan svare på spørsmålet?
-  * Er det noen av spørsmålene som er personsensitive?
-
-Husk!
-
-  * Det er bedre med fem gode spørsmål enn femten dårlige
-  * Folk er utålmodige! Det er lurt å på forhånd gi dem en idé om hvor lang tid skjemaet vil ta
-  * Det kan være lurt å ha med et «vet ikke»-svaralternativ
-  * Begynn med spørsmål som er enkle å svare på, da «lokker» dere respondenten til komme i gang
+  * Husk å gi informanten følgebrevet fra Holbergprisen i skolen
+  * Takk informanten for at vedkommende tok seg tid til å møte dere
+  * Sjekk at lydopptak er i orden
+  * Skriv kort ned i rapporten hvordan dere synes det gikk, og om det var noe interessant dere la merke til.
