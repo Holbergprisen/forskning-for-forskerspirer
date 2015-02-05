@@ -1,6 +1,6 @@
 {
     "output": null,
-    "generator": "site",
+    "generator": null,
     "title": "Forskning for forskerspirer",
     "description": "Metodebok for Holbergprisen i skolen",
     "isbn": null,
@@ -8,7 +8,6 @@
     "plugins": [
         "customtheme",
         "richquotes"
-        "youtube"
     ],
     "pluginsConfig": {
         "fontSettings": {
