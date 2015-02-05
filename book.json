@@ -8,6 +8,7 @@
     "plugins": [
         "customtheme",
         "richquotes"
+        "youtube"
     ],
     "pluginsConfig": {
         "fontSettings": {

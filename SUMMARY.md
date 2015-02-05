@@ -15,7 +15,7 @@
     *   [Forskningsetikk](kap2/kap-2-6.md)
 *    [Et utvalg forskningsmetoder](kap3/kap-3.md)
     *   [Spørreskjema](kap3/kap-3-1.md)
-    *   [Statistikk](kap3/kap3-2.md)
+    *   [Statistikk](kap3/kap-3-2.md)
     *   [Interjvu](kap3/kap-3-3.md)
     *   [Observasjon](kap3/kap-3-4.md)
     *   [Tekst](kap3/kap-3-5.md)
