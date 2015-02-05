@@ -13,5 +13,5 @@ _Lykke til med forskningsprosjektet!_
 
    [1]: http://knutmelvaer.no "Knut Melværs nettside"
    [2]: http://www.holbergprisen.no/images/materiell/2008_skole_elevkompendium.pdf "Metodehefte for Holbergprisen i skolen"
-   [3]: ../images/holbergvinnere2014.jpeg
+   [3]: ./images/holbergvinnere2014.jpeg
    [4]: http://www.holbergprisen.no/holbergprisen-i-skolen/vinner-2014
