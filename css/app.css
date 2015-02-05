@@ -3,7 +3,7 @@ body, p, ul, li {
     font-size: 16px;
 }
 a, a:link, a:visited {
-    color: #a32e8b !important;
+    color: #a32e8b;
 }
 img {
     border-radius: 3px;
