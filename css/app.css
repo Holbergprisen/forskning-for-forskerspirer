@@ -19,7 +19,9 @@ img {
 .medium {
     width: 53%;
 }
-
+.small {
+    width: 33%;
+}
 h1, h2, h3 {
     color: #a32e8b;
 }
