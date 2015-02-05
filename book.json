@@ -5,15 +5,12 @@
     "description": null,
     "isbn": null,
     "extension": null,
-    "plugins": ["customtheme@0.1.9"],
+    "plugins": [],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
             "family": "sans",
             "size": 2
-        },
-        "customtheme": {
-            "css": "css/app.css"
         }
     },
     "variables": {},
