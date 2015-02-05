@@ -1,13 +1,11 @@
 {
     "output": null,
     "generator": "site",
-    "title": "Forskning for forskerspirer",
-    "description": "Metodebok for Holbergprisen i skolen",
+    "title": null,
+    "description": null,
     "isbn": null,
     "extension": null,
-    "plugins": [
-        "customtheme"
-    ],
+    "plugins": ["customtheme"],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
@@ -15,9 +13,7 @@
             "size": 2
         },
         "customtheme": {
-            "css": [
-                "css/app.css"
-            ]
+            "css": ["css/app.css"]
         }
     },
     "variables": {},
@@ -41,8 +37,6 @@
             "left": 62,
             "top": 36,
             "bottom": 36
-        },
-        "headerTemplate": "_SECTION_",
-        "footerTemplate": "_PAGENUM_"
+        }
     }
 }
