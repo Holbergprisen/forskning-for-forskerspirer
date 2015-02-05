@@ -5,6 +5,7 @@
     "description": null,
     "isbn": null,
     "extension": null,
+    "version": "2.0.x",
     "plugins": [],
     "pluginsConfig": {
         "fontSettings": {
