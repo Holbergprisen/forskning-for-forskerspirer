@@ -6,8 +6,7 @@
     "isbn": null,
     "extension": null,
     "plugins": [
-        "customtheme",
-        "richquotesbooster"
+        "customtheme"
     ],
     "pluginsConfig": {
         "fontSettings": {
