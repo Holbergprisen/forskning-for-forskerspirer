@@ -2,25 +2,24 @@ body, p, ul, li {
     font-family: Helvetica;
     font-size: 16px;
 }
-a:link, a:visited {
-    color: #a32e8b;
+a, a:link, a:visited {
+    color: #a32e8b !important;
 }
 img {
     border-radius: 3px;
 }
-img.left {
+.left {
     float: left;
     margin: 0 1em 1em 0;
 }
-img.right {
+.right {
     float: right;
     margin: 0 0 1em 1em;
 }
-img.medium {
+.medium {
     width: 53%;
 }
 
 h1, h2, h3 {
     color: #a32e8b;
 }
-
