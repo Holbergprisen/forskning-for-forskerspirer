@@ -14,7 +14,7 @@
             "size": 2
         },
         "customtheme": {
-            "css": "css/app.css"
+            "css": ["css/app.css"]
         }
     },
     "variables": {},
