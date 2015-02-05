@@ -6,4 +6,8 @@ Det er både enkelt og vanskelig å analysere et datamateriale. Det er enkelt fo
 
 Analysen blir vanskeligere når vi skal begynne å trekke ut konklusjoner og — ikke minst – tolkninger og forklaringer på det vi finner ut. Dere må gjerne tenke på det i dusjen[^1], sove å det, og snakke en del om det dere har foran dere.
 
-[^1]: Professor [Anders Johansen] snakker i en [video](!g "anders johansen skriving") om de tre B'ene: Buss, Badet og ?. Det er ofte her man kommer på nye ideer eller løsninger.
+[^1]: Professor [Anders Johansen] snakker i en [video][4469-0001] om de tre B'ene: Buss, Badet og ?. Det er ofte her man kommer på nye ideer eller løsninger.
+
+[4469-0001]: http://www.youtube.com/watch?v=FOwhrXNnHNI
+
+
