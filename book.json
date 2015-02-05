@@ -5,8 +5,7 @@
     "description": null,
     "isbn": null,
     "extension": null,
-    "version": "2.x.x",
-    "plugins": ["customtheme"],
+    "plugins": ["customtheme@0.1.9"],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
@@ -43,3 +42,6 @@
         "footerTemplate": null
     }
 }
+
+
+
