@@ -5,8 +5,8 @@
     "description": null,
     "isbn": null,
     "extension": null,
-    "version": "2.0.x",
-    "plugins": ["-mathjax", "-autocover"],
+    "version": "2.0.0",
+    "plugins": ["-mathjax", "-autocover@1.2.1"],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
