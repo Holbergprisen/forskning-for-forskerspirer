@@ -16,7 +16,7 @@
     },
     "styles": {
         "website": "styles/website.css",
-        "pdf": "styles/pdf.css".
+        "pdf": "styles/pdf.css",
         "epub": "styles/epub.css"
     },
     "variables": {},
