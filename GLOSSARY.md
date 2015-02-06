@@ -24,6 +24,8 @@ En påstand om mulige eller antatte forhold i datamaterialet. I samfunnsvitenska
 
 Den påstanden som fremmes i en hypotese undersøkes ved å «teste»den i det empiriske datamaterialet dere har samlet inn. Ofte omformuleres hypotese til det som kalles en nullhypotese som formulerer det motsatte. For ekspempel «Det er ikke sammenheng mellom kjønn og inntekt». Dersom det ikke er mulig å bekrefte nullhypotesen i datamaterialet, så går man gjerne videre med å underbygge hvorfor hypotesen er sannsynlig.
 
+# kontekstualisere
+
 # Modell
 
 # Analogi
