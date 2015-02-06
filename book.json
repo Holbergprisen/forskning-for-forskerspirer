@@ -18,7 +18,7 @@
         "website": "styles/website.css"
     },
     "variables": {
-        "host": "gitbooks.io"
+
         },
     "links": {
         "sidebar": {
@@ -41,7 +41,7 @@
             "top": 36,
             "bottom": 36
         },
-        "headerTemplate": null,
-        "footerTemplate": null
+        "headerTemplate": "<p><span>Forskning for forskerspirer/span><span>_SECTION_</span></p>",
+        "footerTemplate": "<p>_PAGENUM_</p>"
     }
 }
