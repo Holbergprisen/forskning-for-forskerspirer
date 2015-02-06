@@ -15,11 +15,11 @@
         }
     },
     "styles": {
-        "website": "styles/website.css"
+        "website": "styles/website.css",
+        "pdf": "styles/pdf.css".
+        "epub": "styles/epub.css"
     },
-    "variables": {
-
-        },
+    "variables": {},
     "links": {
         "sidebar": {
             "Holbergprisen": "http://holbergprisen.no"
