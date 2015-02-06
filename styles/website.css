@@ -2,12 +2,12 @@ body, p, ul, li {
     font-family: Helvetica;
     font-size: 16px;
 }
-a, a:link, a:visited {
+a, a:link, a:visited, .book .book-body .page-wrapper .page-inner section.normal a {
     color: #a32e8b;
 }
-a.glossary-term {
-    color: rgb(51,51,51);
-    text-decoration: none;
+.book .book-body .page-wrapper .page-inner section.normal a.glossary-term {
+    color: rgb(51,51,51) !important;
+    text-decoration: none !important;
 }
 img {
     border-radius: 3px;
