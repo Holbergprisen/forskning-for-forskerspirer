@@ -41,7 +41,7 @@
             "top": 36,
             "bottom": 36
         },
-        "headerTemplate": "<p><span>Forskning for forskerspirer/span><span>_SECTION_</span></p>",
+        "headerTemplate": "<p><span>Forskning for forskerspirer</span><span>_SECTION_</span></p>",
         "footerTemplate": "<p>_PAGENUM_</p>"
     }
 }
