@@ -17,7 +17,9 @@
     "styles": {
         "website": "styles/website.css"
     },
-    "variables": {},
+    "variables": {
+        "host": "gitbooks.io"
+        },
     "links": {
         "sidebar": {
             "Holbergprisen": "http://holbergprisen.no"
