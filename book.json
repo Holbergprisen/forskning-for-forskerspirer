@@ -6,15 +6,12 @@
     "isbn": null,
     "extension": null,
     "version": "2.0.x",
-    "plugins": ["customtheme@0.1.9", "-mathjax", "-autocover"],
+    "plugins": ["-mathjax", "-autocover"],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
             "family": "sans",
             "size": 2
-        },
-        "customtheme": {
-            "css": ["css/app.css"]
         }
     },
     "variables": {},
@@ -34,8 +31,8 @@
         "fontSize": 12,
         "paperSize": "a4",
         "margin": {
-            "right": 62,
-            "left": 62,
+            "right": 72,
+            "left": 72,
             "top": 36,
             "bottom": 36
         },
@@ -43,6 +40,3 @@
         "footerTemplate": null
     }
 }
-
-
-
