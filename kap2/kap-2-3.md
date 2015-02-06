@@ -10,7 +10,7 @@ Kvantitative metoder kan være kraftige og fremstår ofte som mer «vitenskapeli
 
   * Innebærer ofte undersøkelser av ulike hypoteser. Har gjerne presise formuleringer om sammenhengen mellom ulike variabler.
 
-  * Breddeperspektiv – datamaterialet inneholder litt informasjon om mange.
+  * Breddeperspektiv – datamaterialet inneholder litt informasjon om mange.
 
   * Med et godt datamaterialet kan vi med statistiske analyser stadfeste sannsynligheten for at generaliseringene vi gjør er riktige. Med andre ord, vi kan stadfeste statistisk representativitet, hvor vidt et utvalg kan fortelles oss noe om en større gruppe.
 

@@ -2,7 +2,7 @@
 
 <img src="../images/kap1.jpg" alt="Kom i gang!" class="right medium">
 
-I denne delen hjelper vi dere med å komme i gang med forskningsprosjektet. Det viktigste er å begynne med å lage et godt forskningsspørsmål. Det kan gjøres på forskjellige måter. Dere kan også spørre forskere om hjelp, men det er lurt å ha en god idé om hva dere vil forske på. Det finnes ulike måter som gjør det enklere å komme i gang. Det kan også være lurt å lage hypoteser og delspørsmål.
+I denne delen hjelper vi dere med å komme i gang med forskningsprosjektet. Det viktigste er å begynne med å lage et godt forskningsspørsmål. Det kan gjøres på forskjellige måter. Dere kan også spørre forskere om hjelp, men det er lurt å ha en god idé om hva dere vil forske på. Det finnes ulike måter som gjør det enklere å komme i gang. Det kan også være lurt å lage hypoteser og delspørsmål.
 
 ## Kom i gang!
 

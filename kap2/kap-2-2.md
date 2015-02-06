@@ -4,7 +4,7 @@
 
 ### Forskningsopplegg som tar i bruk kvalitative metoder…
 
-  * Bruker ofte materiale fra forskjellige typer kilder: for eksempel både fra intervjuer, observasjon og tekster.
+  * Bruker ofte materiale fra forskjellige typer kilder: for eksempel både fra intervjuer, observasjon og tekster.
   * Kan være mer eller mindre systematiske og strukturerte.
   * Analysen består ofte i å fortolke meningen til handlinger eller utsagn i datamaterialet.
-  * Tar ofte et dybdeperspektiv – mye informasjon om få personer, en avgrenset periode eller et mindre utvalg tekster.
+  * Tar ofte et dybdeperspektiv – mye informasjon om få personer, en avgrenset periode eller et mindre utvalg tekster.

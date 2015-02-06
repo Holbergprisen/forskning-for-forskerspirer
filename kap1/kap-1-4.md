@@ -14,7 +14,7 @@ Den første hypotesen handler om kvantitet, med andre ord, at det er mer av noe 
 
    [1]: ../images/hypothesis.jpg
 
-I stedet for slike hypotetiske påstander kan dere som delspørsmål under selve forskningsspørsmålet. Dette er også en måte å avgrense prosjektet på. I prosjektet _Victoria Terrasse_ (Bakken, Lunde, Nyeborg og Stake 2013) handler forskningsspørsmålet om hvilket betydning denne bygningen har for oslofolk. For å undersøke dette må man også spørre på hvilken måte Victoria Terrasse er et «sted», og på hvilke måter et sted kan ha «betydning» for folk. Tenker man videre på disse spørsmålene blir det enklere å vite hva man bør se etter i kildene, intervju eller feltarbeidet.
+I stedet for slike hypotetiske påstander kan dere som delspørsmål under selve forskningsspørsmålet. Dette er også en måte å avgrense prosjektet på. I prosjektet _Victoria Terrasse_ (Bakken, Lunde, Nyeborg og Stake 2013) handler forskningsspørsmålet om hvilket betydning denne bygningen har for oslofolk. For å undersøke dette må man også spørre på hvilken måte Victoria Terrasse er et «sted», og på hvilke måter et sted kan ha «betydning» for folk. Tenker man videre på disse spørsmålene blir det enklere å vite hva man bør se etter i kildene, intervju eller feltarbeidet.
 
 Hvilken fremgangsmåte dere velger for å besvare forskningsspørsmålene, er avhengig av hvilken type forskningsspørsmål dere har. Gå igjennom disse punktene og vurder om forskningsspørsmålet er godt nok:
 
@@ -23,4 +23,4 @@ Hvilken fremgangsmåte dere velger for å besvare forskningsspørsmålene, er av
   3. Dersom dere har et presis forskningspørsmål: Hva er avhengig og uavhengig variabel i forskningspørsmålet? Dersom dere er usikre på dette: Hvilke variabler kan det være interessant å undersøke for å identifisere mulige sammenhenger og påvirkningsforhold.
   4. Er forskningspørsmålet formulert slik at dere bare får bekreftet ting som dere allerede tror eller åpner den opp for at dere faktisk kan finne ut noe nytt?
 
-Nå har dere forhåpentligvis kommet frem til noen forskningspørsmål som dere skal undersøke nærmere. De fleste forskningsspørsmål lar seg undersøke på ulike måter, og det er ikke alltid åpenbart om en innfallsvinkel er bedre enn en annen. Det er viktig å bestemme seg for hvilken type datamateriale dere skal undersøke. Dette avhenger av forskningspørsmålet, hypoteser, hvor mye tid og ressurser dere har og — ikke minst — hva som virker mest interessant.
+Nå har dere forhåpentligvis kommet frem til noen forskningspørsmål som dere skal undersøke nærmere. De fleste forskningsspørsmål lar seg undersøke på ulike måter, og det er ikke alltid åpenbart om en innfallsvinkel er bedre enn en annen. Det er viktig å bestemme seg for hvilken type datamateriale dere skal undersøke. Dette avhenger av forskningspørsmålet, hypoteser, hvor mye tid og ressurser dere har og — ikke minst — hva som virker mest interessant.

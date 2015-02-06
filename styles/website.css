@@ -5,6 +5,10 @@ body, p, ul, li {
 a, a:link, a:visited {
     color: #a32e8b;
 }
+a.glossary-term {
+    color: rgb(51,51,51);
+    text-decoration: none;
+}
 img {
     border-radius: 3px;
 }
@@ -25,3 +29,4 @@ img {
 h1, h2, h3 {
     color: #a32e8b;
 }
+

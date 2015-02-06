@@ -82,7 +82,7 @@ I statistikkprogrammer er vi nødt til å kode disse spørsmålene og svarene ti
 
 > **Info** Variabel 1: Antall sosiale medier respondetene er på. Verdier: Fra 0 til 5.
 
-     
+
 
 > **Info** Variabel 2: Er respondenten på Facebook?  Verdier: 1=Er på Facebook; 2=Er ikke på Facebook.
 
@@ -102,7 +102,7 @@ Eksempel på hvordan en kodebok kan se ut:
     <th>Variabel-ID</th>
     <th>Variabel</th>
     <th>Verdier</th>
-    <th>Spørsmåls-ID </th>
+    <th>Spørsmåls-ID </th>
 </tr>
 </thead>
 
@@ -147,7 +147,7 @@ Eksempel på hvordan en kodebok kan se ut:
     <td></td>
     <td></td>
     <td>Ganske viktig</td>
-    <td> </td>
+    <td> </td>
 </tr>
 <tr>
     <td></td>

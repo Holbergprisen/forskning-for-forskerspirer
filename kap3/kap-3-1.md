@@ -11,18 +11,18 @@ Bruk av spørreskjema er kanskje en av de mest brukte innsamlingsmetodene, ikke 
 
 Selv om spørreskjema er en populær metode, så er det vanskelig å lage et godt spørreskjema. _Skikkelig vanskelig_. Spesielt om dere skal undersøke sosiale, kulturelle og kanskje psykologiske spørsmål som ikke lar seg definere veldig klart. Om dere skal ta i bruk spørreskjema er det ekstra viktig å ha forskningsspørsmålet klart for dere, og at dere gjerne har laget delspørsmål eller hypoteser. Det kan være fristende å legge inn mange spørsmål i skjemaet, spesielt når man ikke helt vet hva man ser etter. Dere bør være forsiktige med å gjøre dette. Ha i mente at dere også må transkribere (dersom skjemaet er på papir) og analysere datamaterialet. Tenk også på at respondenter kan være utålmodige. Det kan være krevende å svare på et spørreskjema, spesielt dersom tvinges til å tenke over egen oppførsel og holdninger. Om skjemaet er for langt, vil respondentene kanskje begynne å *rushe* seg gjennom for å bli ferdig.
 
-Dere er antagelivis allerede godt trent i å svare på spørreskjema, og dere har sikkert flere ganger opplevd at det er vanskelig eller umulig å svare slik dere som dere helst ville. Nå som dere står på andre siden av denne prosessen, er det viktig å huske på at respondentene deres ikke nødvendigvis vet hva dere har tenkt i spørsmålsutformingen. Derfor er det viktig at dere lager så entydige spørsmål som mulig – det vil si at de ikke kan tolkes på mer enn én måte. Det er derfor lurt å teste ut spørreskjemaet og be om tilbakemeldinger på det før dere sender det ut. Først på hverandre, klassekamerater eller noen i familien. Dere vil garantert finne spørsmål som bør omformuleres.
+Dere er antagelivis allerede godt trent i å svare på spørreskjema, og dere har sikkert flere ganger opplevd at det er vanskelig eller umulig å svare slik dere som dere helst ville. Nå som dere står på andre siden av denne prosessen, er det viktig å huske på at respondentene deres ikke nødvendigvis vet hva dere har tenkt i spørsmålsutformingen. Derfor er det viktig at dere lager så entydige spørsmål som mulig – det vil si at de ikke kan tolkes på mer enn én måte. Det er derfor lurt å teste ut spørreskjemaet og be om tilbakemeldinger på det før dere sender det ut. Først på hverandre, klassekamerater eller noen i familien. Dere vil garantert finne spørsmål som bør omformuleres.
 
 ## Hvordan lage et spørreskjema
 
-Dersom du søker på «how to make a questionnaire» i Google får du i overkant av 23 millioner søketreff. Søker man på «questionnaire research method» i Google Books, får man opp over én million boktitler hvor man angivelig kan lese om dette temaet. Det gir en indikasjon på at det er mange hjul som allerede er oppfunnet der ute. Dere skal med andre ord ikke bare sette dere ned og bare lage et spørreskjema. Eller, jo, gjør det.
+Dersom du søker på «how to make a questionnaire» i Google får du i overkant av 23 millioner søketreff. Søker man på «questionnaire research method» i Google Books, får man opp over én million boktitler hvor man angivelig kan lese om dette temaet. Det gir en indikasjon på at det er mange hjul som allerede er oppfunnet der ute. Dere skal med andre ord ikke bare sette dere ned og bare lage et spørreskjema. Eller, jo, gjør det.
 
 Å forske handler i stor grad om å tenke og diskutere. Det dere kan begynne med er å lage et idékart over spørsmål som dere synes virker relevante. Skriv dem ned. Finn gjerne flere måter å formulere det samme spørsmålet på. Det bør ikke ta for lang tid før dere har en del spørsmål, kanskje til og med med svaralternativer. Grunnen til vi begynner med en slik idémyldring er for å ta vare på ideene og forutantagelsene dere har om forskningsspørsmålet.
 
 Det er nemlig veldig stor sjanse for at noen andre allerede har forsket på noe som ligner det dere skal forske på, eller kommet på de samme tingene å spørre om. Det er også sannsynlig at disse forskerne har hatt mye mer tid, erfaring og ressurser enn dere til å utforme gode spørreskjema. Akkurat det kan komme dere til nytte! I forskning er det nemlig lov, og helt nødvendig, å bygge på andre sine erfaringer. Så lenge man henviser til hvor man har fått idéene fra. Det neste steget blir for dere å finne ut om det finnes eksisterende spørreskjema relatert til det dere holder på med.
 
 [![Som man spør for man svar av Tove Mordal][1]][2]
->   _Som man spør for man svar_ av Tove Mordal er en gammel, men god innføringsbok i spørreskjema-metode.
+>   _Som man spør for man svar_ av Tove Mordal er en gammel, men god innføringsbok i spørreskjema-metode.
 
    [1]: ..images/mordal.png
    [2]: http://urn.nb.no/URN:NBN:no-nb_digibok_2007090704001
@@ -37,7 +37,7 @@ Man kan lære mye av å bare utforske og prøve ut et eksisterende spørreskjema
 
 Det første man skal tenke på i forbindelse med hvert spørsmål er hva det er man skal måle. Er det om respondentens _person_ (for eksempel kjønn, alder, utdanning eller bosted). Er det om respondentens _holdninger_ (for eksempel om politiske, religiøse, etiske eller kulturelle spørsmål)? Er det om respondentens _adferd_ (for eksempel mat-, trenings-, underholdnings- eller arbeidsvaner). Er det om respondentens _valg_ (for eksempel i en gitt økonomisk situasjon)? Er det om respondentens _tro_ (for eksempel om guder, hellige bøker eller religiøse problemstillinger? For alle disse eksemplene finnes det mange hensyn og mange fremgangsmåter.
 
-Det er ingen som forventer at dere skal lage det perfekte spørreskjemaet. Den eneste måten å bli god på dette er å starte et sted. Dere kommer antagelivis til å være 120 % bedre på kvantitative forskningsmetoder etter dere har gjennomført den første innsamlingen. Poenget er at dere skal være klar over hvor utfordringene ligger. Dere skal også være klar over at dere ikke kan bruke spørreskjemaet til å si hva som helst for sikkert. Det er heller ikke poenget. Poenget er å få en følelse for hva forskere gjør og hvor givende det er å lage sitt eget datamateriale. Fordi det _er _gøy!
+Det er ingen som forventer at dere skal lage det perfekte spørreskjemaet. Den eneste måten å bli god på dette er å starte et sted. Dere kommer antagelivis til å være 120 % bedre på kvantitative forskningsmetoder etter dere har gjennomført den første innsamlingen. Poenget er at dere skal være klar over hvor utfordringene ligger. Dere skal også være klar over at dere ikke kan bruke spørreskjemaet til å si hva som helst for sikkert. Det er heller ikke poenget. Poenget er å få en følelse for hva forskere gjør og hvor givende det er å lage sitt eget datamateriale. Fordi det _er _gøy!
 
 Bruk maks et kvarter og finn ut:
 
@@ -67,12 +67,12 @@ Eksempel: Hva er ditt hovedmål?
 Eksempel: Hvilke av disse strømmetjenestene bruker du? (kryss av for de som passer)
 
 -   [ ] Spotify
--   [ ] WiMP
+-   [ ] WiMP
 -   [ ] YouTube
 -   [ ] Netflix
 -   [ ] Sumo
 -   [ ] NRK.no
--   [ ] Andre
+-   [ ] Andre
 
 **Spørsmål med holdningskala**
 

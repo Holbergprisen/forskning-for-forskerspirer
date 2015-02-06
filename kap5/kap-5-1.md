@@ -18,7 +18,7 @@ Dere aner ikke hvor mange stygge tabeller og grafer som finnes der ute i akademi
 
 ## Kildehenvisninger og referanser
 
-Det er også utrolig viktig å gi hverandre kred i vitenskapen. Vanligvis gjøres dette med hjelp av referanser og kildehenvisninger. Dere er allerede kjent med at det å kopiere tekst fra internett og presentere det som noe man har skrevet selv, ikke er særlig lurt. Om en forsker eller student gjør det samme kan det føre til oppsigelse og utstengelse fra universitetet. Uredelighet er ikke hovedgrunnen til at det er viktig å bruke referanser. Med kildehenvisninger og referanser inviterer vi andre til å gå i de samme sporene som vi selv har tråkket opp. Det gjør det lettere for andre å vurdere forskningen vår, men også bygge videre på den. [På nettsidene til Søk og skriv finner dere gode retningslinjer for kildebruk og referanser.][1] Det er nemlig bra å bygge på andres kunnskaper, sitere og vise til innsikter i andre forskningsarbeider. Det er også utrolig praktisk fordi man slipper å skrive alt på nytt (det er også grunnen til dere finner masse henvisninger i dette heftet ). Med en henvisning sier du at «her er det en forsker som har brukt tid på utforske denne saken, teorien eller metoden, om du vil vite mer kan du gå hit for å finne det ut». Dette er et _forslag_ til hvordan forskningsartikkelen kan se ut.
+Det er også utrolig viktig å gi hverandre kred i vitenskapen. Vanligvis gjøres dette med hjelp av referanser og kildehenvisninger. Dere er allerede kjent med at det å kopiere tekst fra internett og presentere det som noe man har skrevet selv, ikke er særlig lurt. Om en forsker eller student gjør det samme kan det føre til oppsigelse og utstengelse fra universitetet. Uredelighet er ikke hovedgrunnen til at det er viktig å bruke referanser. Med kildehenvisninger og referanser inviterer vi andre til å gå i de samme sporene som vi selv har tråkket opp. Det gjør det lettere for andre å vurdere forskningen vår, men også bygge videre på den. [På nettsidene til Søk og skriv finner dere gode retningslinjer for kildebruk og referanser.][1] Det er nemlig bra å bygge på andres kunnskaper, sitere og vise til innsikter i andre forskningsarbeider. Det er også utrolig praktisk fordi man slipper å skrive alt på nytt (det er også grunnen til dere finner masse henvisninger i dette heftet ). Med en henvisning sier du at «her er det en forsker som har brukt tid på utforske denne saken, teorien eller metoden, om du vil vite mer kan du gå hit for å finne det ut». Dette er et _forslag_ til hvordan forskningsartikkelen kan se ut.
 
    [1]: http://sokogskriv.no/kildebruk-og-referanser/
 
@@ -32,7 +32,7 @@ Det er også utrolig viktig å gi hverandre kred i vitenskapen. Vanligvis gjøre
   * Kort bakgrunn (1-2)
 
     * Har det blitt gjort forskning på dette før?
-    * Kort bakgrunn for det dere skal forske på (hva, hvor, når, hvem osv).
+    * Kort bakgrunn for det dere skal forske på (hva, hvor, når, hvem osv).
 
   * Kort metodevalg (1-2)
 

@@ -99,7 +99,7 @@ Eksempel på hvordan en kodebok kan se ut:
     <th>Variabel-ID</th>
     <th>Variabel</th>
     <th>Verdier</th>
-    <th>Spørsmåls-ID </th>
+    <th>Spørsmåls-ID </th>
 </tr>
 </thead>
 
@@ -144,7 +144,7 @@ Eksempel på hvordan en kodebok kan se ut:
     <td></td>
     <td></td>
     <td>Ganske viktig</td>
-    <td> </td>
+    <td> </td>
 </tr>
 <tr>
     <td></td>
