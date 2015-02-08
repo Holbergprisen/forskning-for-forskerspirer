@@ -4,3 +4,7 @@ iframe {
     display: none;
     visibility: hidden;
 }
+.header {
+    font-size: 0.5em;
+    color: #777;
+}

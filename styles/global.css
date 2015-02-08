@@ -1,5 +1,5 @@
 body, p, ul, li {
-    font-family: Helvetica;
+    font-family: "fira-sans", Helvetica;
     font-size: 16px;
 }
 .book .book-body .page-wrapper .page-inner section.normal a {
@@ -28,6 +28,7 @@ img {
 }
 h1, h2, h3 {
     color: #a32e8b;
+    font-family: "servus-slab";
 }
 .boks {
     text-align: center;
@@ -35,16 +36,27 @@ h1, h2, h3 {
     font-style: italic;
     width:50%;
     color: #32a33b;
-    margin: 0 auto;
+    margin: 1em auto 1em;
     line-height: 1em;
     border-top: 1px solid;
     border-bottom: 1px solid;
     padding: 0.5em 0 0.5em 0;
 }
+
 .book .book-body .page-wrapper .page-inner section.normal blockquote[id*="fn"] {
     font-size: 1em;
     border-top: 1px solid #777;
     border-left: none;
     padding-top: 1em;
     margin-top: 1em;
+}
+.book .book-body .page-wrapper .page-inner section.normal .boks a.glossary-term {
+    color: #32a33b;
+}
+.book .book-body .page-wrapper .page-inner section.normal a.glossary-term {
+    text-decoration: none;
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 50%, rgba(0,0,0,0.3) 50%);
+    background-repeat: repeat-x;
+    background-size: 2px 2px;
+    background-position: 0 22px;
 }

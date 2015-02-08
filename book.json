@@ -6,12 +6,15 @@
     "isbn": null,
     "extension": null,
     "version": "2.0.0",
-    "plugins": ["-mathjax", "-autocover@1.2.1", "youtube"],
+    "plugins": ["-mathjax", "-autocover@1.2.1", "youtube", "typekit"],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
             "family": "sans",
             "size": 1
+        },
+        "typekit": {
+            "kitID": "kij5crl"
         }
     },
     "styles": {
@@ -33,15 +36,15 @@
     },
     "pdf": {
         "pageNumbers": true,
-        "fontSize": 12,
+        "fontSize": 11,
         "paperSize": "a4",
         "margin": {
             "right": 72,
             "left": 72,
-            "top": 36,
-            "bottom": 36
+            "top": 40,
+            "bottom": 40
         },
-        "headerTemplate": "<p><span>Forskning for forskerspirer</span> | <span>_SECTION_</span></p>",
-        "footerTemplate": "<p style='text-align:right'><span class='even_page'>_PAGENUM_</span><span class='odd_page'><i>_PAGENUM_</i></span></p>"
+        "headerTemplate": "<p class='header'><span>Forskning for forskerspirer</span> | <span>_SECTION_</span></p>",
+        "footerTemplate": "<p class='footer' style='text-align:right'><span class='even_page'>_PAGENUM_</span><span class='odd_page'><i>_PAGENUM_</i></span></p>"
     }
 }
