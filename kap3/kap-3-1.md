@@ -1,11 +1,7 @@
 # Spørreskjema: Det spørs på skjema!
 
-![Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «pantograf» og hullkort. Dette er fra den amerikanske folketellingen rundt 1940.][1]
-Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «[pantograf][3]» og hullkort.
-
-   [1]: ../images/pantograph.jpeg
-   [3]: https://snl.no/pantograf%2Fapparat_for_å_gjengi_tegninger
-   [4]: http://en.wikipedia.org/wiki/File:Card_puncher_-_NARA_-_513295.jpg
+<p><img src="../images/pantograph.jpeg" alt="Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «pantograf» og hullkort. Dette er fra den amerikanske folketellingen rundt 1940." title="Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «pantograf» og hullkort. Dette er fra den amerikanske folketellingen rundt 1940." />
+Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «<a href="https://snl.no/pantograf%2Fapparat_for_å_gjengi_tegninger">pantograf</a>» og hullkort.</p>
 
 Bruk av spørreskjema er kanskje en av de mest brukte innsamlingsmetodene, ikke bare i Holbergprisen i skolen, men i samfunnsvitenskapelig forskning i det hele tatt. I forskningsøyemed er spørreskjema og måten det brukes på, en relativt ny oppfinnelse. Den britiske altmuligmannen Francis Galton (1822–1911) var den første som brukte spørreskjema og visse statistiske metoder for å forske på menneskesamfunn. Grunnen til at spørreskjema er mye brukt er at det er en kostnadseffektiv måte å samle inn større mengder strukturert data på. Nøkkelordet her er «strukturert». At et spørreskjema, eller et intervju er strukturert, betyr egentlig at alle spørsmålene følger en bestemt rekkefølge og har forhåndsbestemte svaralternativer. Dette gjør det enkelt å oversette alle responsene til verdier som igjen kan inngå i statistiske analyser.
 
@@ -48,9 +44,13 @@ Bruk maks et kvarter og finn ut:
 
 Lenker til spørreskjematjenester på web
 
-  * [SurveyMonkey](!g surveymonkey)
-  * [Wufoo](!g wufoo)
-  * [Google Docs](!g google forms)
+  * [SurveyMonkey][7406-0001]
+  * [Wufoo][7406-0002]
+  * [Google Docs][7406-0003]
+
+[7406-0001]: https://www.surveymonkey.com/
+[7406-0002]: http://www.wufoo.com/
+[7406-0003]: http://www.google.com/forms/about/
 
 Dersom dere bruker spørreskjema over web vil dere som oftes kunne velge mellom forskjellige spørsmålstyper. Som dere sikkert vet finnes det forskjellige måter å oppgi et spørsmål og svaralternativer på. Dette kan dere finne mye mer om i metodelittatur, men her er de viktigste å vite om:
 
