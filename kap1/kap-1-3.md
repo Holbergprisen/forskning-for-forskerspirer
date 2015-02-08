@@ -12,18 +12,12 @@ Ved å gjøre litteratursøk kan dere finne ut hva andre forskere har skrevet om
 
 Dersom dere skal kontakte en forsker er det viktig å huske at de som oftes er veldig travle og sannsynligvis får masse eposter hver dag. Ikke bli demotivert dersom en forsker ikke svarer dere på eposten eller svarer negativt, spesielt dersom de er professorer eller førsteamanuensiser. Det kan derfor være lurt å peke seg ut en doktorgradsstipendiat eller en postdoktor. De fleste forskere blir alltid glade når noen viser interesse for det de holder på med. Når dere kontakter dem, så er det allikevel viktig å huske på at det ikke er meningen at de skal tenke eller komme på ideer for dere. Skriv derfor kort hva dere har lyst til å forske på, og gjerne hvorfor, og spør om råd, tips eller henvisning til aktuell litteratur dere bør sjekke opp. Er dere i nærheten av hvor forskeren sitter, kan det også være lurt å avtale et møte. Det er ofte inspirerende å se hvor forskere jobber, og man får ofte mer ut av en samtale.
 
-En annen fordel med å kontakte en forsker er dere får testet om forskningsspørsmålet er godt nok.
+>   En annen fordel med å kontakte en forsker er dere får testet om forskningsspørsmålet er godt nok.
 
-Når dere tar kontakt med en forsker er det viktig å huske på:
+## Når dere tar kontakt med en forsker er det viktig å huske på…
 
--  [ ] Spør om noe konkret, ikke be forskeren gjøre jobben for dere
--  [ ] Husk å følge opp kommunikasjonen, takk forskeren for hjelpen (også i rapporten)
--  [ ] Det er også fint å sende rapporten til de som har hjulpet dere, de er nok interesserte i hva dere har funnet ut.
-
-## Legg fordommene igjen hjemme
-
-Vi har alle fordommer og forestillinger om hvordan verden henger sammen. Fordommer trenger ikke bare å være negative, og kan til og med være nyttige for å raskt kunne ta avgjørelser og valg. I forskningen kan slike fordommer ofte komme i veien for det man skal prøve å finne ut. Selv om ofte forsknings kan bekrefte det vi allerede vet, så bør man gå inn med et åpen sinn. En måte å tvinge seg selv til å gjøre dette er for omformulere til det man tror er tilfelle, til det motsatte. Det er også lurt å formulere spørsmålet åpent.
-
-- [ ] Bruk maks to timer i gruppa på finne relevant litteratur og tidligere forskning.
-- [ ] Det kan være lurt å bruke mesteparten av tiden på å finne en forsker som kan hjelpe dere litt på veien.
-
+-   Bruk maks to timer i gruppa på finne relevant litteratur og tidligere forskning.
+-   Det kan være lurt å bruke mesteparten av tiden på å finne en forsker som kan hjelpe dere litt på veien.
+-   Spør om noe konkret, ikke be forskeren gjøre jobben for dere
+-   Husk å følge opp kommunikasjonen, takk forskeren for hjelpen (også i rapporten)
+-   Det er også fint å sende rapporten til de som har hjulpet dere, de er nok interesserte i hva dere har funnet ut.

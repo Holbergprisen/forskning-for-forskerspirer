@@ -1,13 +1,9 @@
 # Få innsikt i feltet: Observasjons som forskningsmetode
 
-[![Karl Popper (1902–1994). østerriksk-britisk filosof.][1]][2]
-
-   [1]: http://jekyll-hyde.no/holberg/wp-content/uploads/2014/12/Karl_Popper-2.jpg
-   [2]: https://snl.no/Karl_Popper
-
+<p><a href="https://snl.no/Karl_Popper"><img class="right small" id="karlpopper19021994.sterriksk-britiskfilosof." src="http://jekyll-hyde.no/holberg/wp-content/uploads/2014/12/Karl_Popper-2.jpg" alt="Karl Popper (1902–1994). østerriksk-britisk filosof." title="Karl Popper (1902–1994). østerriksk-britisk filosof." /></a></p>
 Karl Popper (1902–1994) er en filosof som er kjent for sine bøker om vitenskapelig metode. Han skal i en av sine forelesninger bedt studentene sine om å ta opp et ark og en blyant og skrive ned hva de observerte. Dere kan prøve det selv, skriv ned det dere ser. Observer!
 
-Vanskelig? For å observere på en vitenskapelig måte er vi avhengig av å på forhånd vite hva det er vi skal observere. Popper brukte denne anekdoten for å understreke et større vitenskapsfilosofisk poeng om _induksjon _og _deduksjon_, men det trenger ikke vi å henge oss opp i (det ér en veldig interessant diskusjonen som jeg anbefaler dere å lære mer om når sjansen byr seg). Poenget er, dersom dere skal bruke observasjonsmetoder er dere nødt til å ha en plan. Den planen springer ut fra forskningsspørsmålet.
+Vanskelig? For å observere på en vitenskapelig måte er vi avhengig av å på forhånd vite hva det er vi skal observere. Popper brukte denne anekdoten for å understreke et større vitenskapsfilosofisk poeng om _induksjon_ og _deduksjon_, men det trenger ikke vi å henge oss opp i (det ér en veldig interessant diskusjonen som jeg anbefaler dere å lære mer om når sjansen byr seg). Poenget er, dersom dere skal bruke observasjonsmetoder er dere nødt til å ha en plan. Den planen springer ut fra forskningsspørsmålet.
 
 Forskere, spesielt antropologer, bruker observasjonsmetoder for å få innsikt i hvordan folk lever livene i sine sosiale og naturgitte omgivelser. Med observasjonsmetoder kommer man gjerne veldig tett på feltet på en helt annen måte enn det man gjør med historiske metoder, spørreskjema eller intervju. Derfor kommer vi fort inn på forskningsetiske problemstillinger. Har dere lyst til å gjøre feltarbeid i _Holbergprisen i skolen_, bør dere satse på å forske i det offentlige rom.
 
