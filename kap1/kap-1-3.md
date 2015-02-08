@@ -6,13 +6,9 @@ Ved å gjøre litteratursøk kan dere finne ut hva andre forskere har skrevet om
 
    [1]: http://www.uib.no/form/50915/finn-en-forsker (Universitetet i Bergen: Finn en forsker)
 
-![Forskere][2]
+<img id="forskere" src="../images/scientists.jpg" alt="Forskere" title="Forskere" class="left medium" />Dersom dere skal kontakte en forsker er det viktig å huske at de som oftes er veldig travle og sannsynligvis får masse eposter hver dag. Ikke bli demotivert dersom en forsker ikke svarer dere på eposten eller svarer negativt, spesielt dersom de er professorer eller førsteamanuensiser. Det kan derfor være lurt å peke seg ut en doktorgradsstipendiat eller en postdoktor. De fleste forskere blir alltid glade når noen viser interesse for det de holder på med. Når dere kontakter dem, så er det allikevel viktig å huske på at det ikke er meningen at de skal tenke eller komme på ideer for dere. Skriv derfor kort hva dere har lyst til å forske på, og gjerne hvorfor, og spør om råd, tips eller henvisning til aktuell litteratur dere bør sjekke opp. Er dere i nærheten av hvor forskeren sitter, kan det også være lurt å avtale et møte. Det er ofte inspirerende å se hvor forskere jobber, og man får ofte mer ut av en samtale.
 
-   [2]: ../images/scientists.jpg
-
-Dersom dere skal kontakte en forsker er det viktig å huske at de som oftes er veldig travle og sannsynligvis får masse eposter hver dag. Ikke bli demotivert dersom en forsker ikke svarer dere på eposten eller svarer negativt, spesielt dersom de er professorer eller førsteamanuensiser. Det kan derfor være lurt å peke seg ut en doktorgradsstipendiat eller en postdoktor. De fleste forskere blir alltid glade når noen viser interesse for det de holder på med. Når dere kontakter dem, så er det allikevel viktig å huske på at det ikke er meningen at de skal tenke eller komme på ideer for dere. Skriv derfor kort hva dere har lyst til å forske på, og gjerne hvorfor, og spør om råd, tips eller henvisning til aktuell litteratur dere bør sjekke opp. Er dere i nærheten av hvor forskeren sitter, kan det også være lurt å avtale et møte. Det er ofte inspirerende å se hvor forskere jobber, og man får ofte mer ut av en samtale.
-
->   En annen fordel med å kontakte en forsker er dere får testet om forskningsspørsmålet er godt nok.
+< div class="boks>En annen fordel med å kontakte en forsker er dere får testet om forskningsspørsmålet er godt nok.</span>
 
 ## Når dere tar kontakt med en forsker er det viktig å huske på…
 

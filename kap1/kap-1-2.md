@@ -10,7 +10,7 @@ Forhåpentligvis sitter dere nå med en liste med ideer og spørsmål, kanskje d
 
 Kilder kan være historiske dokumenter som for eksempel brev, rapporter, regnskap eller avisnotiser. Disse bruker vi til å danne oss et bilde av fortiden. Et forskningsspørsmål i et historisk prosjekt kan se sånn ut: «Hva gjorde egentlig Bergens stolthet og næringsgigant for tyskerne under krigen, hvorfor gikk de med på å bistå okkupasjonsmakten og var det riktig å henlegge etterforskningen av rederiet?» (Dingen & Aanes 2013). Forskningsspørsmålet avgrenses til å handle om ett rederi innenfor en viss tidsperiode.
 
-**Ikke vær redd for å gjøre forskningsspørsmålet for snevert! Det er alltid mye enklere å utvide det om det skal bli nødvendig, enn å avgrense den.**
+<div class="boks">Ikke vær redd for å gjøre forskningsspørsmålet for snevert! Det er alltid mye enklere å utvide det om det skal bli nødvendig, enn å avgrense den.</div>
 
 ## Det finnes forskjellige typer spørsmål
 
@@ -25,7 +25,7 @@ Forskningsspørsmålet «Fører filmatisering av romaner til økt leselyst?» ([
 
 Forskning som forsøker å si noe mer om årsaksforhold eller som søker å forklare _hvorfor_ noe er som det er, er som regel mer interessant enn forskning som kun beskriver hvordan ting er. De fleste forskningsspørsmålene i _Holbergprisen i skolen_ spør _hva_ og _hvordan_-spørsmål. Slike spørsmål er ofte enklere å begynne med, særlig når man ikke vet så mye om temaet fra før av. Da blir hovedoppgaven å finne ut hva som er relevant for å en bedre oversikt over det man forsker på. Det kan være å finne flere mulige årsaker som forklarer hvorfor en situasjon har oppstått, eller finne ut hva folk legger mest vekt på innenfor et tema. I prosjektet om _Det Bergenske Dampskibsselskap_ over spørres det først om hva rederiet gjorde for tyskerne. Det spørres også om _hvorfor._
 
-Å forklare hvorfor noe er tilfelle er kanskje det mest spennende, men også krevende man kan gjøre i forskningen. Vi oppfordrer dere allikevel til å stille hvorfor-spørsmål.
+<div class="boks">Å forklare hvorfor noe er tilfelle er kanskje det mest spennende, men også krevende man kan gjøre i forskningen. Vi oppfordrer dere allikevel til å stille hvorfor-spørsmål.</div>
 
 ## Teorier, modeller og sammenligninger
 

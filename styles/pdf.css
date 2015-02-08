@@ -1,34 +1,5 @@
-body, p, ul, li {
-    font-family: Helvetica;
-    font-size: 16px;
-}
-.book .book-body .page-wrapper .page-inner section.normal a {
-    color: #a32e8b;
-}
-.book .book-body .page-wrapper .page-inner section.normal a.glossary-term {
-    color: rgb(50,50,50);
-    text-decoration: none;
-}
-img {
-    border-radius: 3px;
-}
-.left {
-    float: left;
-    margin: 0 1em 1em 0;
-}
-.right {
-    float: right;
-    margin: 0 0 1em 1em;
-}
-.medium {
-    width: 53%;
-}
-.small {
-    width: 33%;
-}
-h1, h2, h3 {
-    color: #a32e8b;
-}
+@import url("global.css");
+
 iframe {
     display: none;
     visibility: hidden;
