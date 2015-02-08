@@ -6,7 +6,7 @@
     "isbn": null,
     "extension": null,
     "version": "2.0.0",
-    "plugins": ["-mathjax", "-autocover@1.2.1", "youtube", "typekit"],
+    "plugins": ["-mathjax", "-autocover@1.2.1", "youtube", "typekit@0.0.2"],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
@@ -14,7 +14,7 @@
             "size": 1
         },
         "typekit": {
-            "kitID": "aaaa"
+            "kitID": "kij5crl"
         }
     },
     "styles": {
