@@ -1,7 +1,4 @@
-[![Statistikk er en fin måte å presentere funnene i en spørreundersøkelse.][1]][2] Statistikk er en fin måte å presentere funnene i en spørreundersøkelse.
-
-   [1]: http://jekyll-hyde.no/holberg/wp-content/uploads/2014/12/2012_langhaguen_oppgave_statistikk-300x124.jpg
-   [2]: http://jekyll-hyde.no/holberg/wp-content/uploads/2014/12/2012_langhaguen_oppgave_statistikk.jpg
+# Hold orden i sysakene: Lag en kodebok
 
 Alle kvantitative analyser begynner med et strukturert datamateriale. Det første dere bør gjøre er å lage en _kodebok_. Dette er en oversikt over alle spørsmål og svaralternativer i form av _variabler _og _verdier_. Dersom dere ikke har en slik kodebok, er det fort gjort å miste oversikten og gjøre feil. Om dere har laget et spørreskjema er det enkleste å begynne med å liste opp alle spørsmålene med alle mulige svar-alternativer.
 

@@ -20,7 +20,7 @@ Om dere har et historisk prosjekt, kan det være spennende å gjøre detektivarb
 
 Det er stadig mer og mer av historisk tekstmateriale som blir digitalisert og gjort tilgengelig på nettet. På Nasjonalbiblioteket finner dere for eksempel et utvalg av søkbare aviser fra og med 1700-tallet! Dere kan også bruke nettaviser. Er dere i nærheten av et universitetsbibliotek kan dere få tilgang på avissøk i Retriever (Atekst) som stort sett har digitale utvager av de aller fleste norske aviser fra 1990-tallet til i dag. Her finner dere også verktøy for å lage enkel beskrivende statistikk. Det er lurt å sette seg inn i hvordan søk-funksjonen virker. Med avansert søk kan dere avgrense og filtrere ut irrelevante søketreff. Det er veldig lurt å laste ned og lagre det datamaterialet dere skal bruke. Både Nasjonalbiblioteket og Retriever gir dere mulighet til å laste ned tekster i ulike formater.
 
-### Forskning på nettet
+## Forskning på nettet
 
 Dersom dere vil forske på tekster som ligger på nettsider og i sosiale medier er det viktig at dere lagrer en egen kopi av disse tekstene sammen med nettadressen til kilden og tidspunktet dere lagret det på. Tekster på nettet kan fort forandre seg eller forsvinne. Selv om det som legges ut i sosiale medier og på nettforum ofte er og kan virke som offentlige uttalelser, så bør dere ha det forskningsetiske i mente og anonymisere opphavspersonene. Dersom personene også er offentlige (for eksempel politikere eller kjendiser) er ikke det nødvendig å anonymisere.
 
