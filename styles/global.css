@@ -14,11 +14,15 @@ img {
 }
 .left {
     float: left;
-    margin: 0 1em 1em 0;
+    margin: 0 1em 0.5em 0;
 }
 .right {
     float: right;
-    margin: 0 0 1em 1em;
+    margin: 0 0 0.5em 1em;
+}
+.center {
+    text-align: center;
+    margin: 0 auto;
 }
 .medium {
     width: 53%;
@@ -28,7 +32,9 @@ img {
 }
 h1, h2, h3 {
     color: #a32e8b;
-
+}
+.book .book-body .page-wrapper .page-inner section.normal blockquote {
+    color: #333;
 }
 .boks {
     text-align: center;
@@ -41,6 +47,7 @@ h1, h2, h3 {
     border-top: 1px solid;
     border-bottom: 1px solid;
     padding: 0.5em 0 0.5em 0;
+    clear: both;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal blockquote[id*="fn"] {

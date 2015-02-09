@@ -4,9 +4,9 @@ Når dere har undersøkt mer om temaet dere skal forske på kan dere spesifisere
 
 Et eksempel på bruk av hypoteser i tidligere prosjekter i _Holbergprisen i skolen_ finner vi i _Hvilke dialektforskjeller finnes i Sør-Odal og Nord-Odal_ (Fjeld, Petersen og Toftegaard 2008). Ut fra forskningsspørsmålet, som er gitt i tittelen, har forskerne laget tre hypoteser (se side fem i rapporten):
 
-  1. De bruker mer dialektord i Nord-Odal, enn i Sør-Odal
-  2. Itakismen er på vei ut av Odalen.
-  3. Odalsdialekten er i ferd med å bli utvannet.
+>   1. De bruker mer dialektord i Nord-Odal, enn i Sør-Odal
+>   2. Itakismen er på vei ut av Odalen.
+>   3. Odalsdialekten er i ferd med å bli utvannet.
 
 Den første hypotesen handler om kvantitet, med andre ord, at det er mer av noe én plass enn en annen. Den andre hypotesen handler om bevegelse og utstrekning. _Itakisme_ er et språkvitenskapelig begrep som beskriver et bestemt dialektfenomen. I språkvitenskap er det ikke uvanlig å undersøke hvorvidt bestemte dialekttrekk sprer seg fra et sted til et annet. Derfor burde nok denne hypotesen blitt formulert litt klarere. I dette prosjektet undersøkes det nemlig om _itakismen_ ikke lengre brukes i odals-dialekten (og ikke hvorvidt den har spredd seg til nabobygdene). Den siste hypotesen henger sammen med den foregående og handler om hvorvidt typiske trekk med odalsdialekten er i ferd å forsvinne. For å kunne undersøke disse hypotesene er ikke elevene kun nødt til å hente inn et datamateriale, de måtte også vite hva som utgjør odalsdialekten og hvordan man studerer dialekter og språk.
 
