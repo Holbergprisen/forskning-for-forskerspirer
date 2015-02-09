@@ -6,15 +6,12 @@
     "isbn": null,
     "extension": null,
     "version": "2.0.0",
-    "plugins": ["-mathjax", "-autocover@1.2.1", "youtube", "typekit@0.0.2"],
+    "plugins": ["-mathjax", "-autocover@1.2.1", "youtube"],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
             "family": "sans",
             "size": 1
-        },
-        "typekit": {
-            "kitID": "kij5crl"
         }
     },
     "styles": {
