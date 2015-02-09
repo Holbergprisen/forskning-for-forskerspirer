@@ -10,18 +10,18 @@ Selv om ordet kildekritikk er mest utbredt i historiefaget, er det egentlig noe 
 
 # Wikipedia, en gullgruve for kildekritikk
 
-Noen av dere har kanskje fått høre at man ikke bør bruke [Wikipedia](http://no.wikipedia.org) som kilde. Det er sånt som voksne sier fordi de (1) ikke skjønner hvordan Wikipedia virker og/eller (2) ikke stoler på at dere er kildekritiske nok. Dersom man setter seg inn i Wikipedia finner man raskt ut at det faktisk er lettere å bruke det kildekritisk sammenlignet med andre oppslagsverk. For første skal det som står på Wikipedia stort sett ha referanser til sekundærlitteratur (det er det dere ser i fotnotene). At det er referanser der betyr ikke nødvendigvis at teksten er mer pålitelig men det er mulig å vurdere hvorvidt disse kildene er pålitelige. For det andre kan dere bla i historien til selve artikkelen og se hvilke endringer og diskusjoner som har blitt foretatt. Da kan dere finne ut om noen er uenige i innholdet i artikkelen og eventuelt hvorfor. Det kan faktisk være et forskningsprosjekt i seg selv å analysere hvordan slike wikipedia-artikler utvikler seg.
+<img class="right" src="../images/wikipedia.png" alt="Wikipedia logo">Noen av dere har kanskje fått høre at man ikke bør bruke [Wikipedia](http://no.wikipedia.org) som kilde. Det er sånt som voksne sier fordi de (1) ikke skjønner hvordan Wikipedia virker og/eller (2) ikke stoler på at dere er kildekritiske nok. Dersom man setter seg inn i Wikipedia finner man raskt ut at det faktisk er lettere å bruke det kildekritisk sammenlignet med andre oppslagsverk. For første skal det som står på Wikipedia stort sett ha referanser til sekundærlitteratur (det er det dere ser i fotnotene). At det er referanser der betyr ikke nødvendigvis at teksten er mer pålitelig men det er mulig å vurdere hvorvidt disse kildene er pålitelige. For det andre kan dere bla i historien til selve artikkelen og se hvilke endringer og diskusjoner som har blitt foretatt. Da kan dere finne ut om noen er uenige i innholdet i artikkelen og eventuelt hvorfor. Det kan faktisk være et forskningsprosjekt i seg selv å analysere hvordan slike wikipedia-artikler utvikler seg.
 
 Wikipedia har også en del markører som forteller dere noe om kvaliteten på artikkelen. På [Skribentsiden](http://no.wikipedia.org/wiki/Wikipedia:Portal) kan dere lese mer om hvordan Wikipedia fungerer.
 
-## Et kildekritisk eksempel
+## Kritisk vurdering av kilder
 
 Når vi i Holbergprisen i skolen sier at dere skal være kildekritiske betyr det at i er interesserte i hvordan dere vurderer kildene. Å være kildekritisk betyr ikke nødvendigvis at dere må være 100 prosent sikre på kildene for å bruke dem, eller at dere må se vekk i fra alt som dere er usikre på. Sånn er det aldri for forskere. Det er helt greit å være usikker, men da er det viktig å fortelle _hvorfor_ dere er det, og gjerne hva dere kunne ha gjort dersom dere hadde hatt mer tid og ressurser.
 
   1. Har tenkt på hvilke typer kilder dere bruker og hvordan de er forskjellige.
   2. Skriver ned og forklarer hvordan dere vurderer disse kildene.
 
-## Her noen enkle eksempel på hvordan man komme i gang med kildekritikk.
+### Eksempel: Var fisketorget i Bergen bedre før?
 
 **Hvilke type kilder er det? Er det dokumenter fra et arkiv, er det transkriberte intervju, eller er det en fagbok?**
 
@@ -33,7 +33,7 @@ Eksempel: Dokumentene fra byarkivet er skrevet av sekretærer i Bergen kommune m
 
 **Hvordan belyser kilden forskningspørsmålet?**
 
-Eksempel: Arkivdokumentene viser hvilke forhandlere som hadde salgsløyve på firsketorget i perioden 1972–1975. Intervjuene er førstehåndsberetninger av to som jobbet med fiskehandel på syttitallet. Boken gir en historisk bakgrunn for å forstå hvordan fisketorget har forandret seg. Ut fra dette har vi et sammenligningsgrunnlag som vi kan bruke til belyse spørsmålet om fisketorget virkelig var så mye bedre før.
+Eksempel: Arkivdokumentene viser hvilke forhandlere som hadde salgsløyve på fisketorget i perioden 1972–1975. Intervjuene er førstehåndsberetninger av to som jobbet med fiskehandel på syttitallet. Boken gir en historisk bakgrunn for å forstå hvordan fisketorget har forandret seg. Ut fra dette har vi et sammenligningsgrunnlag som vi kan bruke til belyse spørsmålet om fisketorget virkelig var så mye bedre før.
 
 **Hvorfor er det sannsynlig at kildene kan belyse forskningsspørsmålet?**
 
