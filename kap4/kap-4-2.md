@@ -1,6 +1,6 @@
-# Hold orden i sysakene: Lag en kodebok
+# Ikke mist oversikten: Lag en kodebok
 
-Alle kvantitative analyser begynner med et strukturert datamateriale. Det første dere bør gjøre er å lage en _kodebok_. Dette er en oversikt over alle spørsmål og svaralternativer i form av _variabler _og _verdier_. Dersom dere ikke har en slik kodebok, er det fort gjort å miste oversikten og gjøre feil. Om dere har laget et spørreskjema er det enkleste å begynne med å liste opp alle spørsmålene med alle mulige svar-alternativer.
+Alle kvantitative analyser begynner med et strukturert datamateriale. Det første dere bør gjøre er å lage en _kodebok_. Dette er en oversikt over alle spørsmål og svaralternativer i form av _variabler_ og _verdier_. Dersom dere ikke har en slik kodebok, er det fort gjort å miste oversikten og gjøre feil. Om dere har laget et spørreskjema er det enkleste å begynne med å liste opp alle spørsmålene med alle mulige svar-alternativer.
 
 <table><colgroup> <col /> <col /> <col /> <col /> </colgroup>
 <thead>
@@ -77,11 +77,11 @@ Alle kvantitative analyser begynner med et strukturert datamateriale. Det først
 
 I statistikkprogrammer er vi nødt til å kode disse spørsmålene og svarene til variabler og verdier. Med andre ord, vi må gi spørsmålene og svarene en tallverdi. Selv om et spørsmål ofte tilsvarer en variabel, så kan man tenke seg at det også kan bli flere variabler. For eksempel kan vi gjøre spørsmål 1 i tabellen til minst to variabler:
 
-> **Info** Variabel 1: Antall sosiale medier respondetene er på. Verdier: Fra 0 til 5.
+>   Variabel 1: Antall sosiale medier respondetene er på.
+>   Verdier: Fra 0 til 5.
 
-
-
-> **Info** Variabel 2: Er respondenten på Facebook?  Verdier: 1=Er på Facebook; 2=Er ikke på Facebook.
+>   Variabel 2: Er respondenten på Facebook?
+>   Verdier: 1=Er på Facebook; 2=Er ikke på Facebook.
 
 
 Eksempel på hvordan en kodebok kan se ut:
@@ -169,4 +169,4 @@ Eksempel på hvordan en kodebok kan se ut:
 
 Fordelen med å lage en slik kodebok er ikke bare at det blir utrolig mye lettere å holde kontroll på materialet, men at dere også bli bedre kjent med datamaterialet og får mulighet til å tenke over det dere gjør. Kodeboken kan forandres underveis dersom dere kommer på nye variabler eller er nødt til å forandre noe.
 
-Den letteste måten å gjøre det på er å bruke et regneark i Excel, Numbers eller Google Docs. Ikke bruk tabeller i Word (fordi derfor).
+Den letteste måten å gjøre det på er å bruke et regneark i Excel, Numbers eller Google Docs. Ikke bruk tabeller i Word (fordi derfor). [Vi har laget et eksempel på en kodebok i Google Docs](https://docs.google.com/spreadsheets/d/1Pvv9-NOBgWhCtIYMWiWllXFCbCNseff9I-SgcmX5_2c/pubhtml).
