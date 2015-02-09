@@ -12,16 +12,18 @@ Selv om ordet kildekritikk er mest utbredt i historiefaget, er det egentlig noe 
 
 Noen av dere har kanskje fått høre at man ikke bør bruke [Wikipedia](http://no.wikipedia.org) som kilde. Det er sånt som voksne sier fordi de (1) ikke skjønner hvordan Wikipedia virker og/eller (2) ikke stoler på at dere er kildekritiske nok. Dersom man setter seg inn i Wikipedia finner man raskt ut at det faktisk er lettere å bruke det kildekritisk sammenlignet med andre oppslagsverk. For første skal det som står på Wikipedia stort sett ha referanser til sekundærlitteratur (det er det dere ser i fotnotene). At det er referanser der betyr ikke nødvendigvis at teksten er mer pålitelig men det er mulig å vurdere hvorvidt disse kildene er pålitelige. For det andre kan dere bla i historien til selve artikkelen og se hvilke endringer og diskusjoner som har blitt foretatt. Da kan dere finne ut om noen er uenige i innholdet i artikkelen og eventuelt hvorfor. Det kan faktisk være et forskningsprosjekt i seg selv å analysere hvordan slike wikipedia-artikler utvikler seg.
 
-Når vi i Holbergprisen i skolen sier at dere skal være kildekritiske betyr det at i er interesserte i hvordan dere vurderer kildene. Å være kildekritisk betyr ikke nødvendigvis at dere må være 100 prosent sikre på kildene for å bruke dem, eller at dere må se vekk i fra alt som dere er usikre på. Sånn er det aldri for forskere. Det er helt greit å være usikker, men da er det viktig å fortelle _hvorfor_ dere er det, og gjerne hva dere kunne ha gjort dersom dere hadde hatt mer tid og ressurser.
+Wikipedia har også en del markører som forteller dere noe om kvaliteten på artikkelen. På [Skribentsiden](http://no.wikipedia.org/wiki/Wikipedia:Portal) kan dere lese mer om hvordan Wikipedia fungerer.
 
-## Å være kildekritisk betyr at dere:
+## Et kildekritisk eksempel
+
+Når vi i Holbergprisen i skolen sier at dere skal være kildekritiske betyr det at i er interesserte i hvordan dere vurderer kildene. Å være kildekritisk betyr ikke nødvendigvis at dere må være 100 prosent sikre på kildene for å bruke dem, eller at dere må se vekk i fra alt som dere er usikre på. Sånn er det aldri for forskere. Det er helt greit å være usikker, men da er det viktig å fortelle _hvorfor_ dere er det, og gjerne hva dere kunne ha gjort dersom dere hadde hatt mer tid og ressurser.
 
   1. Har tenkt på hvilke typer kilder dere bruker og hvordan de er forskjellige.
   2. Skriver ned og forklarer hvordan dere vurderer disse kildene.
 
-### Her noen enkle eksempel på hvordan man komme i gang med kildekritikk.
+## Her noen enkle eksempel på hvordan man komme i gang med kildekritikk.
 
-**Hvilke type kilder er det? Er det dokumenter fra et akriv, er det transkriberte intervju, eller er det en fagbok?**
+**Hvilke type kilder er det? Er det dokumenter fra et arkiv, er det transkriberte intervju, eller er det en fagbok?**
 
 _Eksempel: Kildene våre består av 20 dokumenter fra byarkivet, tre intervjuer og en bok om fisketorgets historie._
 
@@ -37,12 +39,15 @@ Eksempel: Arkivdokumentene viser hvilke forhandlere som hadde salgsløyve på fi
 
 Eksempel: Ingen av fiskehandlerne i disse dokumentene ville stått der om de ikke hadde søkt kommunen om salgsløyve. Det var derfor sannsynlig at disse også ville ha vært på fisketorget denne perioden. Noe som ble sannsynligjort da vi fikk kontakt med noen av som stod der. Intervjuene er erindringer fra noen som faktisk var der i denne perioden, men det er rundt 40 år siden og det er ikke sikkert hukommelsen alltid stemmer med det som faktisk skjedde. _Fisketorgets historie_ er skrevet av en som er professor i historie, men samtidig vet vi at han var veldig kritisk til hvordan det ble drevet. Vi er derfor usikre på hvor han kan ha smørt tykt på og hvor han kan ha utelatt ting.
 
+<div class="boks">Det store spørsmålet gjenstår: Kan dere ta innholdet i dette eksempelet for god fisk?</div>
+
 ## Husk å være kritisk til statistikk også
 
 Dersom deres skal bruke statistiske kilder, gjelder det også å være kildekritiske. Tall og grafer røper kanskje enda mindre om hvor de kommer fra enn andre tekster og historiske dokumenter. Spesielt når tallene er knyttet opp mot politiske spørsmål bør man være forsiktig.[^1] En tommelfinger-regel er at man går til offisielle og annerkjente nettsider som Norsk samfunnsvitenskapelig datatjeneste ([NSD](http://nsd.uib.no)) og Statistisk sentralbyrå ([SSB](http://ssb.no)).
 
 ## Lesetips
 
--   [_Mål og mening: om feiltolkning av meningsmålinger_, Ottar Hellevik, 2011.](http://urn.nb.no/URN:NBN:no-nb_digibok_2013102406005)
+-   [_Mål og mening: om feiltolkning av meningsmålinger_, Ottar Hellevik, 2011.](http://urn.nb.no/URN:NBN:no-nb_digibok_2013102406005 "Nasjonalbiblioteket: Mål og Mening av Ottar Hellevik")
+-   [Wikipedia: Kildekritikk](http://no.wikipedia.org/wiki/Kildekritikk "Wikipedia: Kildekritikk")
 
 [^1]: [Denne bloggposten](http://tjomlid.com/2013/12/20/realitetsorientering-2/) av Gunnar Tjomlid er et eksempel på hvordan man kan være kildekritisk til statistikk og kvantitative generaliseringer
