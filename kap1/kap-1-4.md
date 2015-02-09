@@ -10,13 +10,11 @@ Et eksempel på bruk av hypoteser i tidligere prosjekter i _Holbergprisen i skol
 
 Den første hypotesen handler om kvantitet, med andre ord, at det er mer av noe én plass enn en annen. Den andre hypotesen handler om bevegelse og utstrekning. _Itakisme_ er et språkvitenskapelig begrep som beskriver et bestemt dialektfenomen. I språkvitenskap er det ikke uvanlig å undersøke hvorvidt bestemte dialekttrekk sprer seg fra et sted til et annet. Derfor burde nok denne hypotesen blitt formulert litt klarere. I dette prosjektet undersøkes det nemlig om _itakismen_ ikke lengre brukes i odals-dialekten (og ikke hvorvidt den har spredd seg til nabobygdene). Den siste hypotesen henger sammen med den foregående og handler om hvorvidt typiske trekk med odalsdialekten er i ferd å forsvinne. For å kunne undersøke disse hypotesene er ikke elevene kun nødt til å hente inn et datamateriale, de måtte også vite hva som utgjør odalsdialekten og hvordan man studerer dialekter og språk.
 
-![Vi lager hypoteser for å teste dem.][1]
+<img class="left small" id="vilagerhypoteserfortestedem." src="../images/hypothesis.jpg" alt="Vi lager hypoteser for å teste dem." title="Vi lager hypoteser for å teste dem." />I stedet for slike hypotetiske påstander kan dere som delspørsmål under selve forskningsspørsmålet. Dette er også en måte å avgrense prosjektet på. I prosjektet _Victoria Terrasse_ (Bakken, Lunde, Nyeborg og Stake 2013) handler forskningsspørsmålet om hvilket betydning denne bygningen har for oslofolk. For å undersøke dette må man også spørre på hvilken måte Victoria Terrasse er et «sted», og på hvilke måter et sted kan ha «betydning» for folk. Tenker man videre på disse spørsmålene blir det enklere å vite hva man bør se etter i kildene, intervju eller feltarbeidet.
 
-   [1]: ../images/hypothesis.jpg
+<div class="boks">Hvilken fremgangsmåte dere velger for å besvare forskningsspørsmålene, er avhengig av hvilken type forskningsspørsmål dere har.</div>
 
-I stedet for slike hypotetiske påstander kan dere som delspørsmål under selve forskningsspørsmålet. Dette er også en måte å avgrense prosjektet på. I prosjektet _Victoria Terrasse_ (Bakken, Lunde, Nyeborg og Stake 2013) handler forskningsspørsmålet om hvilket betydning denne bygningen har for oslofolk. For å undersøke dette må man også spørre på hvilken måte Victoria Terrasse er et «sted», og på hvilke måter et sted kan ha «betydning» for folk. Tenker man videre på disse spørsmålene blir det enklere å vite hva man bør se etter i kildene, intervju eller feltarbeidet.
-
-Hvilken fremgangsmåte dere velger for å besvare forskningsspørsmålene, er avhengig av hvilken type forskningsspørsmål dere har. Gå igjennom disse punktene og vurder om forskningsspørsmålet er godt nok:
+Gå igjennom disse punktene og vurder om forskningsspørsmålet er godt nok:
 
   1. Hva er det forskningspørsmålet gir dere ny kunnskap om?
   2. Er forskningspørsmålet avgrenset slik at dere kan besvare den i løpet av tiden som er til rådighet?

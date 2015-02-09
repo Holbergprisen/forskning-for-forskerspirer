@@ -27,9 +27,13 @@ Forskning som forsøker å si noe mer om årsaksforhold eller som søker å fork
 
 <div class="boks">Å forklare hvorfor noe er tilfelle er kanskje det mest spennende, men også krevende man kan gjøre i forskningen. Vi oppfordrer dere allikevel til å stille hvorfor-spørsmål.</div>
 
-## Teorier, modeller og sammenligninger
+## Teorier og modeller
 
-«Det er bare en teori», er gjerne noe man hører i diskusjoner. Folk kaller ofte noe som ikke man vet sikkert (eller som de er uenige i) en «teori». I forskning og vitenskapp sikter teori til noe litt annet. En teori er en samling med påstander og forslag til hvordan noe henger sammen, eller hvordan noe best skal forstås.
+«Det er bare en teori», er gjerne noe man hører i diskusjoner. Folk kaller ofte noe som ikke man vet sikkert (eller som de er uenige i) en «teori». I forskning og vitenskap bruker vi ordet begrepet teori til noe litt annet. Ofte er en teori en samling med påstander og forslag til hvordan noe henger sammen, eller hvordan noe best skal forstås. Disse påstandende og forslagene skal kunne testest, etterprøves og granskes. Noen teorier kan være sikrere og mer aksepterte enn andre. Teorier trenger heller ikke være kompliserte, selv om de ofte blir det, fordi verden _er_ komplisert.
+
+En modell (må ikke forvekskles med slike som har på seg den nyeste moten) er en forenkling som viser hvordan noe er bygd opp eller henter sammnen. I forskning bruker vi modeller for å gjøre dette lettere å praktisk gjennomføre forskningen. Om vi forsker samfunnsvitenskapelig kan vi foreksempel tegne opp et kart med relevante sosiale aktører (for eksempel personer, bedrifter eller institusjoner) og tegne linjer mellom dem som markerer hieraki, innflytelse eller andre relasjoner. Da blir det lettere å ha det klart for seg hva man skal se nærmere på. En modell kan også være hypotetisk på den måten at dere skisserer hvordan dere tenker sammenhengene eller relasjonene er, og så prøve å avkrefte(!) dette. En modell trenger ikke å være grafisk, den kan også beskrives skriftlig.
+
+
 
 
 ## Legg fordommene igjen hjemme
