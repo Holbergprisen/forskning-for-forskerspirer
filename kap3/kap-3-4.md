@@ -1,4 +1,4 @@
-# Få innsikt i feltet: Observasjons som forskningsmetode
+# Få innsikt i feltet: Observasjon som forskningsmetode
 
 <a class="right medium" href="https://snl.no/Karl_Popper"><img class="right small" id="karlpopper19021994.sterriksk-britiskfilosof." src="http://jekyll-hyde.no/holberg/wp-content/uploads/2014/12/Karl_Popper-2.jpg" alt="Karl Popper (1902–1994). østerriksk-britisk filosof." title="Karl Popper (1902–1994). østerriksk-britisk filosof." /></a>Karl Popper (1902–1994) er en filosof som er kjent for sine bøker om vitenskapelig metode. Han skal i en av sine forelesninger bedt studentene sine om å ta opp et ark og en blyant og skrive ned hva de observerte. Dere kan prøve det selv, skriv ned det dere ser. Observer!
 
