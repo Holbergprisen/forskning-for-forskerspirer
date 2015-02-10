@@ -64,4 +64,4 @@ Kanskje taler datamaterialet for seg selv, kanskje ser dere en klar sammenheng s
   * Er det sannsynlig at deres forklaringer også gjelder for datamaterialet dere har samlet og arbeidet med?
   * Om det er vanskelig å komme med klare og entydige forklaringer på _hvorfor_, kan dere også konkludere med å stille nye spørsmål og forslag til hvordan dere ville gått videre med denne forskningen. Se for dere at dere skal begynne på universitetet og forske videre. Hva ville dere gjort da, og hvorfor?
 
-** En annen måte å konkludere på er forklare hvorfor noe ikke er som dere først trodde. Fikk dere avkreftet noen fordommer eller antagelser?**
+** En annen måte å konkludere på er å forklare hvorfor noe ikke er som dere først trodde. Fikk dere avkreftet noen fordommer eller antagelser?**
