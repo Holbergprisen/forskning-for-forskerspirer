@@ -17,8 +17,8 @@ Dersom du søker på «how to make a questionnaire» i Google får du i overkant
 
 Det er nemlig veldig stor sjanse for at noen andre allerede har forsket på noe som ligner det dere skal forske på, eller kommet på de samme tingene å spørre om. Det er også sannsynlig at disse forskerne har hatt mye mer tid, erfaring og ressurser enn dere til å utforme gode spørreskjema. Akkurat det kan komme dere til nytte! I forskning er det nemlig lov, og helt nødvendig, å bygge på andre sine erfaringer. Så lenge man henviser til hvor man har fått idéene fra. Det neste steget blir for dere å finne ut om det finnes eksisterende spørreskjema relatert til det dere holder på med.
 
-[![Som man spør for man svar av Tove Mordal][1]][2]
->   _Som man spør for man svar_ av Tove Mordal er en gammel, men god innføringsbok i spørreskjema-metode.
+[![Som man spør får man svar av Tove Mordal][1]][2]
+>   _Som man spør får man svar_ av Tove Mordal er en gammel, men god innføringsbok i spørreskjema-metode.
 
    [1]: ..images/mordal.png
    [2]: http://urn.nb.no/URN:NBN:no-nb_digibok_2007090704001
