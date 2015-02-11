@@ -1,5 +1,7 @@
 @import url("global.css");
-
+body p {
+    font-size: 1em;
+}
 iframe {
     display: none;
     visibility: hidden;
