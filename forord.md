@@ -10,3 +10,5 @@ Denne boken er en starthjelp til å forske innenfor humanistiske og samfunnsvite
 _Lykke til med forskningsprosjektet!_
 
 [Knut Melvær](http://knutmelvaer.no), desember 2014
+
+[2]: http://www.holbergprisen.no/images/materiell/2008_skole_elevkompendium.pdf
