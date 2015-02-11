@@ -14,7 +14,7 @@ La aldri et sitat står for seg selv. En grei regel er at et avsnitt aldri skal 
 
 Dere aner ikke hvor mange stygge tabeller og grafer som finnes der ute i akademia. De fleste nøyer seg med å kopiere tabeller og grafer rett ut fra Excel eller statistikkprogrammet man bruker. Ofte legger man inn alt for mye informasjon og unødvendig grafikk i tabeller og grafer. Tabeller og grafer fungerer best når de er enkle. En tommelfingerregel er å kutte vekk mest mulig, og kun sitte igjen med det som er interessant. Det er sjelden å inkludere den samme informasjonen flere ganger, ha mange desimaler, farger eller linjer.
 
-![Forbedre tabeller](images/How-you-can-design-better-with-less-bar-chart-example.gif)
+![Forbedre tabeller](../images/How-you-can-design-better-with-less-bar-chart-example.gif)
 
 Det er også mulig å la seg inspirere og lage pene grafer med nettsider som [plot.ly](http://plot.ly).
 
@@ -60,4 +60,7 @@ Det er også utrolig viktig å gi hverandre kred i vitenskapen. Vanligvis gjøre
     * Hva kunne dere gjort annerledes?
     * Hvor kunne dere tatt forskningen videre?
 
-  * **Litteraturliste, tillegg (spørreskjema, kodebok osv)**
+  * Tillegg
+    *   Litteraturliste
+    *   Spørreskjema
+    *   Kodebok (dere kan også bare oppgi en lenke til denne om dere har den i Google Docs)

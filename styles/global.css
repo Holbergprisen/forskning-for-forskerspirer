@@ -62,8 +62,19 @@ h1, h2, h3 {
 }
 .book .book-body .page-wrapper .page-inner section.normal a.glossary-term {
     text-decoration: none;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 50%, rgba(0,0,0,0.3) 50%);
-    background-repeat: repeat-x;
-    background-size: 2px 2px;
-    background-position: 0 22px;
+}
+.caption {
+    border-radius: 5px;
+    line-height: 1em;
+}
+.caption  .caption-text {
+    font-size: 0.9em;
+    font-family: serif;
+    text-align: left;
+    margin: 0 0.4em;
+}
+.caption img {
+    margin 0 auto;
+    text-align: center;
+    width: 100%;
 }
