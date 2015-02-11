@@ -23,7 +23,7 @@ Om du som nå leser dette er forsker selv, så vil du kanskje reagere på at den
 
 Denne boka er først og fremst laget for en digital skjerm. Derfor er tekststykkene litt kortere. Det vil også kunne komme små oppdateringer her og der. Det betyr at dersom dere skal refere til denne boka, så bør dere gjøre det til den digitale versjonen som ligger på nettet. Foreløbig kan dere gjøre det som dere gjør med en vanlig nettside. Her med referansestilen [Chicago forfatter-år](http://sokogskriv.no/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/):
 
->   Melvær, Knut, 2015. Forord. Forskning for forskerspirer. Lest {% date %}. [http://metode.holbergprisen.no/content/index.html](http://metode.holbergprisen.no/content/index.html)
+>   Melvær, Knut, 2015. Forord. Forskning for forskerspirer. Lest 31/03/2015. [http://metode.holbergprisen.no/content/index.html](http://metode.holbergprisen.no/content/index.html)
 
 Det som er viktig med referanser er å gjøre det enkelt for leseren å finne kildene man har brukt. Det vil antagelivis være tilstrekkelig å vise til bokens nettside som over. Om man vil bli veldig nerdete og nøye kan man også gå til denne boken på [GitHub](https://github.com/kmelve/forskning-for-forskerspirer) og lenke akkurat den versjonen som man har brukt. Der kan man også se hvordan boka gradvis har utviklet seg, og hvordan jeg mer eller mindre kaotisk har jobbet med den. Det føles litt som å vise frem skittentøyet, men samtidig, det er også i seg selv en demonstrasjon av at forskning og skriving ikke er en strømlinjeformet prosess.
 
