@@ -6,4 +6,6 @@ Det er ikke alltid lett å komme med definitive svar eller forklaringer. Vi er o
 
 For oss som leser forskningsrapportene i *Holbergprisen i skolen* er det utrolig givende å få innblikk i hvordan dere har tenkt, og hvordan dere har møtt de utfordringene som gjerne kommer opp i forskningsprosessen. Vi som holder på med forskning kan ofte kjenne oss igjen i de problemstillingene dere møter, og det betyr også at vi kan lære en hel del av dere, både når det kommer til forskningsprosjektene i seg selv, men også av de erfaringene dere gjør i forberedelsene, datainnsamling og analysen.
 
-Lykke til! Vi i _Holbergprisen i skolen_ gleder oss veldig til å se hva dere har forsket på, hvordan dere har gått frem og hva dere finner ut.
+Vi i _Holbergprisen i skolen_ gleder oss veldig til å se hva dere har forsket på, hvordan dere har gått frem og hva dere finner ut.
+
+Lykke til!

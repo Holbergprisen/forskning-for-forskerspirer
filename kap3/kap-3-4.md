@@ -1,6 +1,6 @@
 # Få innsikt i feltet: Observasjon som forskningsmetode
 
-<a class="right medium" href="https://snl.no/Karl_Popper"><img class="right small" id="karlpopper19021994.sterriksk-britiskfilosof." src="http://jekyll-hyde.no/holberg/wp-content/uploads/2014/12/Karl_Popper-2.jpg" alt="Karl Popper (1902–1994). østerriksk-britisk filosof." title="Karl Popper (1902–1994). østerriksk-britisk filosof." /></a>Karl Popper (1902–1994) er en filosof som er kjent for sine bøker om vitenskapelig metode. Han skal i en av sine forelesninger bedt studentene sine om å ta opp et ark og en blyant og skrive ned hva de observerte. Dere kan prøve det selv, skriv ned det dere ser. Observer!
+<div class="caption right medium" ><a href="https://snl.no/Karl_Popper"><img class="right small" id="karlpopper19021994.sterriksk-britiskfilosof." src="http://jekyll-hyde.no/holberg/wp-content/uploads/2014/12/Karl_Popper-2.jpg" alt="Karl Popper (1902–1994). østerriksk-britisk filosof." title="Karl Popper (1902–1994). østerriksk-britisk filosof." /></a></div>Karl Popper (1902–1994) er en filosof som er kjent for sine bøker om vitenskapelig metode. Han skal i en av sine forelesninger bedt studentene sine om å ta opp et ark og en blyant og skrive ned hva de observerte. Dere kan prøve det selv, skriv ned det dere ser. Observer!
 
 Vanskelig? For å observere på en vitenskapelig måte er vi avhengig av å på forhånd vite hva det er vi skal observere. Popper brukte denne anekdoten for å understreke et større vitenskapsfilosofisk poeng om _induksjon_ og _deduksjon_, men det trenger ikke vi å henge oss opp i (det ér en veldig interessant diskusjonen som jeg anbefaler dere å lære mer om når sjansen byr seg). Poenget er, dersom dere skal bruke observasjonsmetoder er dere nødt til å ha en plan. Den planen springer ut fra forskningsspørsmålet.
 
@@ -22,23 +22,22 @@ Den grenen som kalles _deltagende observasjon_ gir dere en annen nærhet til for
 
 Om dere får lov, eller om det er på et offentlig sted, vil det være nyttig å ta bilder, lydopptak eller video under feltarbeidet. Dere kan også be de dere forsker på å selv ta lydopptak, bilder og video av det de holder på med.
 
-## Observasjonsprotokoll
+## Observasjonsprotokollen…
 
-Stille spørsmål til feltet.
+*   skal stille spørsmål til feltet
+*   må ikke være for stor eller for kompleks. Maks én A4-side.
+*   bør være lett å fylle ut.
+*   gjøre det enklere å fordele oppgaver dersom dere er flere
 
-Må ikke være for stor eller for kompleks. Maks én A4-side.
+## Lurt å tenke på i forbindelse med feltarbeid
 
-Lett å fylle ut.
+*   Hva må dere se etter for å kunne belyse forskningsspørsmålet?
+*   Oppsøk stedet dere vil forske om mulig, diskuter observasjonspunkter der.
+*   Lag en observasjonsprotokoll som er oversiktlig og lett å fylle ut
+*   Bruk tid i feltet, vær tålmodige!
+*   Bruk fotografi og video (ikke overdriv, husk at dere skal analysere dette etterpå)
+*   Tenk forskningsetisk: Klarer dere å holde alle anonyme? Hvordan?
 
-Hva må dere se etter for å kunne belyse forskningsspørsmålet?
+## Lesetips
 
-En observasjonsprotokoll gjør det enklere å fordele oppgaver
-
-**Feltarbeid og observasjon (infoboks)**
-
-  * Oppsøk stedet dere vil forske om mulig, diskuter observasjonspunkter der.
-  * Lag en observasjonsprotokoll som er oversiktlig og lett å fylle ut
-  * Bruk tid i feltet, vær tålmodige!
-  * Bruk fotografi og video (ikke overdriv, husk at dere skal analysere dette etterpå)
-
-**- Tenk forskningsetisk: Klarer dere å holde alle anonyme? Hvordan?**
+-   [_Deltagende observasjon_, av Katrine Fangen, 2004](http://urn.nb.no/URN:NBN:no-nb_digibok_2011041308072)

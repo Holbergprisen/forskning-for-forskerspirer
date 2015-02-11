@@ -1,6 +1,6 @@
 <h1 id="innholdsanalyse:stillsprsmltilteksten">Innholdsanalyse: Still spørsmål til teksten</h1>
 
-Innholdsanalyse er en av de mest utbredte forskningsmetodene i humaniora og samfunnsvitenskapene. Dersom datamaterialet består av tekst, så er det umulig å komme utenom. Det finnes utrolig mange forskjellige måter å gjøre innholdsanalyse på. Alt fra kvantitative og statistiske innfallsvinkler til kvalitative og fortolkende. Det er også vanlig å kombinere ulike innholdsanalytiske metoder. Det finnes også innholdsanalytiske metoder som er mer eller mindre formaliserte, det vil si, som har en detaljert trinnvis oppskrift for hvordan det skal gjennomføres. I dette mangfoldet finnes det noen fellestrekk, som vi skal ta for oss her. Felles for all innholdsanalyse er at man forsøker å lage en _objektiv_ og _systematisk _beskrivelse av tekstinnholdet.
+Innholdsanalyse er en av de mest utbredte forskningsmetodene i humaniora og samfunnsvitenskapene. Dersom datamaterialet består av tekst, så er det umulig å komme utenom. Det finnes utrolig mange forskjellige måter å gjøre innholdsanalyse på. Alt fra kvantitative og statistiske innfallsvinkler til kvalitative og fortolkende. Det er også vanlig å kombinere ulike innholdsanalytiske metoder. Det finnes også innholdsanalytiske metoder som er mer eller mindre formaliserte, det vil si, som har en detaljert trinnvis oppskrift for hvordan det skal gjennomføres. I dette mangfoldet finnes det noen fellestrekk, som vi skal ta for oss her. Felles for all innholdsanalyse er at man forsøker å lage en _objektiv_ og _systematisk_ beskrivelse av tekstinnholdet.
 
 Dere har nå samlet inn tekst og brukt noen av de innsamlingsmetodene som beskrives i forrige kapittel. Dere har også laget en oversikt over materialet, ordnet det i en tekst-database eller i noen flotte permer hvor tekstene er nummererte og er lette å finne når dere trenger dem. Allerede i datainnsamlingen og klargjøringen for analysen begynner man å få en viss idé om hvordan tekstene kan belyse forskningsspørsmålet. Det holder ikke å bare ha ideer, følelser eller løse tanker om tekstkorpuset, målet er å forsøke å finne ut hva det forteller oss ved å arbeide med det på en måte som tvinger oss til å ikke ta ting for gitt.
 
@@ -33,7 +33,7 @@ Det er lurt å planlegge omtrent tre kodeøkter. I den første vil dere prøve d
 
 Bestem dere for de kodene hvor dere vil finne det som er mest relevant for forskningsspørsmålet. Snakk sammen om hva som kan være i teksten for å få en av disse kodene. Gå så igjennom på nytt og legg inn disse kodene i en ny kolonne. Dere vil kanskje se at noen av tekstene ikke lengre vil få de samme kodene som ved første gjennomgang. Da er dere på rett vei. Når dere er ferdige, gå så sammen og diskuter hvordan det gikk, og hvorfor dere endte opp med å kode noen av tekstene annerledes.
 
-_Dersom dere kommer over noen interessante sitater i løpet av denne prosessen bør dere utheve, eller trekke dem ut med en gang._
+<div class="boks">Dersom dere kommer over noen interessante sitater i løpet av denne prosessen bør dere utheve, eller trekke dem ut med en gang.</div>
 
 Gå gjennom kodene og tekstene en tredje gang, nå skal dere lage en kvantitativ oversikt over kodene, det vil si, en liste hvor dere teller og lister opp hvor mange ganger en kode har blitt brukt. Dette er faktisk en form for kvantitativ analyse hvor dere vil få en viss idé om hva det er i tekstene som dere _tolker_ som mer og mindre fremtredende og relevant.
 
@@ -41,10 +41,10 @@ Gjennom denne kodingen vil dere jobbe på tekstene på en måte hvor dere er nø
 
 Ut fra disse kodene kan dere si noe om hva dette tekstmaterialet forteller oss. Med utgangspunkt i forskningspørsmålet kan dere nå gi en kort oppsummering av de forskjellige temaene, sitatene, innsiktene og argumentene under hver av kodene. Dere kan også se om det er koder som forekommer sammen, eller som ikke forekommer sammen i det hele tatt. Kan noen av kodene samles i en større kategori? Eller finnes det sammenheng mellom kodene og kildene, teksttypene eller opphavspersonene?
 
->   **hint*  ### Eksempel
+## Eksempel
 >   _I tekstene som er kodet med _skeptiker_ finner vi også koder som _vitenskap, konspirasjonsteorier _og_ Snåsamannen_. I tekster som er kodet med _alternativ medisin_ finner vi ofte koder som _helse, vitenskap _og _aura_. Dette tyder på at tekster av skeptikere i vårt tekstkorpus appellerer til vitenskap, er opptatt av konspirasjonsteorier og at et gjennomgående eksempel er Snåsamannen. I tekster fra alternativ medisin er det også appeller til vitenskap, men er mer opptatt av helse-relaterte tema. En idé som ofte stikker seg ut er den om aura._
 
-Spørsmål som _kan_ hjelpe dere på vei:
+## Kom i gang med innholdsanalysen
 
   * Hva virker å være sentralt og hva er perifert?
   * Hvilke koder (og tekster) ser ut til å beskrive det samme?
