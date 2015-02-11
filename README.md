@@ -6,15 +6,10 @@ Denne boken er en starthjelp til å forske innenfor humanistiske og samfunnsvite
 
 _Lykke til med forskningsprosjektet!_
 
-[Knut Melvær][1], desember 2014
+[Knut Melvær](http://knutmelvaer.no), desember 2014
 
-![Olivia Høegh-Omdal Paulsen og Eline Loe Rønvik fra Elvebakken videregående skole sammen med Holbergprisvinner Michael Cook og næringsminister Monica Mæland. Foto: Marit Hommedal / Scanpix / Holbergprisen][3]
-[Vant Holbergprisen i skolen 2014][4]: Olivia Høegh-Omdal Paulsen og Eline Loe Rønvik fra Elvebakken videregående skole sammen med Holbergprisvinner Michael Cook og næringsminister Monica Mæland. Foto: Marit Hommedal / Scanpix / Holbergprisen
-
-   [1]: http://knutmelvaer.no "Knut Melværs nettside"
-   [2]: http://www.holbergprisen.no/images/materiell/2008_skole_elevkompendium.pdf "Metodehefte for Holbergprisen i skolen"
-   [3]: ./images/holbergvinnere2014.jpeg
-   [4]: http://www.holbergprisen.no/holbergprisen-i-skolen/vinner-2014
+<div class="caption right medium"><img id="oliviahegh-omdalpaulsenogelineloernvikfraelvebakkenvideregendeskolesammenmedholbergprisvinnermichaelcookognringsministermonicamland.foto:marithommedalscanpixholbergprisen" src="./images/holbergvinnere2014.jpeg" alt="Olivia Høegh-Omdal Paulsen og Eline Loe Rønvik fra Elvebakken videregående skole sammen med Holbergprisvinner Michael Cook og næringsminister Monica Mæland. Foto: Marit Hommedal / Scanpix / Holbergprisen" title="Olivia Høegh-Omdal Paulsen og Eline Loe Rønvik fra Elvebakken videregående skole sammen med Holbergprisvinner Michael Cook og næringsminister Monica Mæland. Foto: Marit Hommedal / Scanpix / Holbergprisen" /><div class="caption-text">
+<a href="http://www.holbergprisen.no/holbergprisen-i-skolen/vinner-2014">Vant Holbergprisen i skolen 2014</a>: Olivia Høegh-Omdal Paulsen og Eline Loe Rønvik fra Elvebakken videregående skole sammen med Holbergprisvinner Michael Cook og næringsminister Monica Mæland. Foto: Marit Hommedal / Scanpix / Holbergprisen</div></div>
 
 ## Om denne boka
 
