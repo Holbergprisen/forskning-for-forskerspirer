@@ -22,3 +22,13 @@ Gå igjennom disse punktene og vurder om forskningsspørsmålet er godt nok:
   4. Er forskningspørsmålet formulert slik at dere bare får bekreftet ting som dere allerede tror eller åpner den opp for at dere faktisk kan finne ut noe nytt?
 
 Nå har dere forhåpentligvis kommet frem til noen forskningspørsmål som dere skal undersøke nærmere. De fleste forskningsspørsmål lar seg undersøke på ulike måter, og det er ikke alltid åpenbart om en innfallsvinkel er bedre enn en annen. Det er viktig å bestemme seg for hvilken type datamateriale dere skal undersøke. Dette avhenger av forskningspørsmålet, hypoteser, hvor mye tid og ressurser dere har og — ikke minst — hva som virker mest interessant.
+
+## Legg fordommene igjen hjemme
+
+Vi har alle fordommer og forestillinger om hvordan verden henger sammen. Fordommer trenger ikke bare å være negative, og kan til og med være nyttige for å raskt kunne ta avgjørelser og valg uten å måtte tenke særlig over det. I forskningen kan slike fordommer ofte komme i veien for det man skal prøve å finne ut. Selv om ofte forskning kan bekrefte det vi allerede vet, så bør man gå inn med et åpen sinn. Dette er spesielt viktig om man skal gå i gang med et kvalitativt forskningsprosjekt. Det innebærer at dere for eksempel bør sette egne holdninger og meninger om det dere skal forske på til side. Det betyr ikke at dere ikke kan ha meninger eller idealer til det dere forsker på, men at akkurat i forskningsarbeidet, så er det ikke det som styrer innsamlingen, analysen, tolkningen og formidlingen av datamaterialet. Derfor bør dere gjøre forskningsspørsmålet åpent. I stedet for forskningsspørsmålet «Hvorfor er John Greene en populær ungdomsforfatter?» kan man stille spørsmålet «hvilken litteratur er det som fenger ungdom og hvorfor gjør den det?».
+
+# Snu opp-ned på forskningsspørsålet: Nullhypoteser
+
+En måte å tvinge seg selv til å ikke kun se etter det som bekrefter hypotesen er å formulere en nullhypotese. Om vi i forskningsspørsmålet har en hypotese om at to grupper er forskjellige, så vil vi i nullhypotesen anta at det ikke er noen forskjeller mellom disse gruppene. Avkrefter vi nullhypotesen, vil det gjøre hypotesen mer sannsynlig. For eksempel:
+
+Forskningsspørsmålet er «Hvordan endrer bruken av sosiale medier seg fra ungdoms- til videregående skole?». En hypotese er at «Det er forskjell mellom elever i ungdoms- og videregående skole i deres til holdninger til Facebook». Nullhypotesen er «Det er *ikke* forskjell mellom elever i ungdoms- og videregående skole i deres holdninger til Facebook». I dette tilfelle vil vi bekrefte hypotesen dersom vi klarer å avkrefte nullhypotesen. Det betyr også at en nullhypotese må formuleres slik at det faktisk er mulig å avkrefte den.
