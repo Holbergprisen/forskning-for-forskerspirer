@@ -8,7 +8,9 @@ Selv om statistisk metode kan virke veldig vanskelig, litt fordi det har med tal
 
 Dere trenger heller ikke å samle inn selve datamaterialet selv. Det finnes allerede gode, kvalitetsikra tall som dere kan forske på, eller bruke for å kontekstualisere deres eget datamateriale. Hos [_Statistisk Sentralbyrå_](http://ssb.no) finner dere statistikk for det som har med Norges befolkning å gjøre. Dette er stort sett _populasjonsdata_, det vil si at tallene beskriver stort sett alle i Norge. På nettsidene til [_Norsk samfunnsvitenskapelig datatjeneste_](http://nsd.uib.no) finner dere også masse statistisk datamateriale. Her ligger det mange meningsmålinger og spørreundersøkelser. Disse har ofte tatt i bruk et _representativt utvalg_. Enkelt sagt betyr det at man bruker mellom 1 000 og  2 000 tilfeldig utvalgte respondenter til å si noe om befolkningen. Det er spesielt i denne type undersøkelser det blir viktig å sette seg inn i statistisk metode.
 
-Video med Hans Rosling
+Statistikk og data kan være veldig spennende og med den rette fortolkningen fortelle oss en hel del om vår egen historie. Hans Rosling forsker på global helse og er kjent for å gjøre statistikk morsomt og engasjerende.
+
+{% youtube %}https://www.youtube.com/watch?v=jbkSRLYSojo{% endyoutube %}
 
 ## Lesetips
 Det finnes mange tonn med introduksjonsbøker til statistikk. Mange av dem er skrevet for de som ikke liker matematikk eller tror statistikk er spesielt vanskelig. Det meste er selvsagt på engelsk, men det finnes noen norske også.
