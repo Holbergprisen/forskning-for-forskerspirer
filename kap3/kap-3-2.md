@@ -15,7 +15,8 @@ Statistikk og data kan være veldig spennende og med den rette fortolkningen for
 ## Lesetips
 Det finnes mange tonn med introduksjonsbøker til statistikk. Mange av dem er skrevet for de som ikke liker matematikk eller tror statistikk er spesielt vanskelig. Det meste er selvsagt på engelsk, men det finnes noen norske også.
 
--   Mål og mening
--   Samfunnsvitenskapelige forskningsmetoder
+-   [_Mål og mening: om feiltolkning av meningsmålinger_, Ottar Hellevik, 2011.](http://urn.nb.no/URN:NBN:no-nb_digibok_2013102406005 "Nasjonalbiblioteket: Mål og Mening av Ottar Hellevik")
+-   [_Samfunnsvitenskapelige metoder_ av Sigmund Grønmo, 2004](http://bibsys-primo.hosted.exlibrisgroup.com/NB:BIBSYS_ILS961798580)
+-   [_Statistics without tears: a primer for non-mathematicians_ av Derek Rowntree, 1981](http://bibsys-primo.hosted.exlibrisgroup.com/UBB:BIBSYS_ILS832027758)
 
 [1206-0001]: http://no.wikipedia.org/wiki/SPSS
