@@ -29,3 +29,9 @@ Denne boka kan også lastes ned som epub (som kan åpnes i ebok-lesere som [Cali
 
 [8112-0001]: http://calibre-ebook.com/
 [8112-0002]: https://www.apple.com/ibooks/
+
+## Takk!
+
+Selv om det er mitt navn som står på fremsiden, hadde ikke denne boka blitt til om det ikke var for en hel del personer. Først og fremst Barbara Wendelbo, Bent Olsen og Solveig Stornes hos Holbergprisen som gav meg muligheten til å bryne meg på denne utfordringen. Gisle Andersen som forfattet det forrige metodeheftet ([som fortsatt kan brukes](http://www.holbergprisen.no/images/materiell/2008_skole_elevkompendium.pdf)) gav meg et flott utgangspunkt. Min veileder Michael Stausberg som ikke bare har sørget for at jeg ikke har glemt å jobbe med avhandlingen i perioden denne boken har blitt til, men som akademisk forbilde har bevisst og ubevisst lært meg mye av det som har endt opp i denne boken. Min gode stipendiat-kollega Håkon Tandberg og alle andre som jeg har diskutert ulike aspekter av denne boka med. Til syvende og sist, denne boka hadde ikke blitt til om det ikke var for min fantastiske lektorkone Lise Mordal, som vet mye mer enn det jeg gjør om å formidle vanskelige saker til elever i videregående.
+
+Alle feil, unøyaktigheter og slurv er det kun jeg som tar æren for.
