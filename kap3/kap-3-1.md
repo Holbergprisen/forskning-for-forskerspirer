@@ -16,12 +16,9 @@ Dersom du søker på «how to make a questionnaire» i Google får du i overkant
 Å forske handler i stor grad om å tenke og diskutere. Det dere kan begynne med er å lage et idékart over spørsmål som dere synes virker relevante. Skriv dem ned. Finn gjerne flere måter å formulere det samme spørsmålet på. Det bør ikke ta for lang tid før dere har en del spørsmål, kanskje til og med med svaralternativer. Grunnen til vi begynner med en slik idémyldring er for å ta vare på ideene og forutantagelsene dere har om forskningsspørsmålet.
 
 Det er nemlig veldig stor sjanse for at noen andre allerede har forsket på noe som ligner det dere skal forske på, eller kommet på de samme tingene å spørre om. Det er også sannsynlig at disse forskerne har hatt mye mer tid, erfaring og ressurser enn dere til å utforme gode spørreskjema. Akkurat det kan komme dere til nytte! I forskning er det nemlig lov, og helt nødvendig, å bygge på andre sine erfaringer. Så lenge man henviser til hvor man har fått idéene fra. Det neste steget blir for dere å finne ut om det finnes eksisterende spørreskjema relatert til det dere holder på med.
-
-[![Som man spør får man svar av Tove Mordal][1]][2]
->   _Som man spør får man svar_ av Tove Mordal er en gammel, men god innføringsbok i spørreskjema-metode.
-
-   [1]: ..images/mordal.png
-   [2]: http://urn.nb.no/URN:NBN:no-nb_digibok_2007090704001
+<p><a class="medium center" href="http://urn.nb.no/URN:NBN:no-nb_digibok_2007090704001"><img id="sommansprfrmansvaravtovemordal" src="../images/mordal.png" alt="Som man spør får man svar av Tove Mordal" title="Som man spør får man svar av Tove Mordal" /></a><blockquote>
+  <p><em>Som man spør får man svar</em> av Tove Mordal er en gammel, men god innføringsbok i spørreskjema-metode.</p>
+</blockquote></p>
 
 Dere kan selvfølgelig begynne med å lete frem spørreskjemaene til store undersøkelser som _World Values Survey_ og _International Social Survey Programme_ (se infoboks) som dere får tilgang på gjennom Norsk Samfunnvitenskapelig Datatjeneste. Dere kan også prøve å søke i [_Google Scholar_](!g scholar), [_DUO_](!g "uio duo"), eller [_BORA_](!g "uib bora") om dere finner spørreskjema der. Det finnes flere tonn med metodebøker som gir snedige og godt uttenkte retningslinjer for hvordan man skal lage spørreskjema. En av de bedre bøkene på norsk er _Som man spør, får man svar_ (1989) av Tove L. Mordal. Den virker kanskje ikke like ny og moderne som en del andre metodebøker, men det er grunn til at permene ser så slitt ut på den digitale utgaven til Nasjonalbiblioteket: Den har blitt brukt mye, fordi den er god.
 
