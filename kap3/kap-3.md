@@ -1,6 +1,6 @@
 #Et utvalg forskningsmetoder
 
-<!-- @TODO: Bilde-->
+<div class="caption right medium"><img src="../images/toolbox.jpeg" alt=""><div class="caption-text">Minnesota State Capitol Verktøykasse, rundt 1900. <a href="http://www.flickr.com/photos/minnesotahistoricalsociety/5494632378/sizes/l/in/photostream/">Minnesota Historical Society.</a> (<a href="http://creativecommons.org/licenses/by-sa/2.0/deed.en">CC-BY-SA</a>)</div>
 
 Dere har nå laget et forskningsspørsmål, en plan og reflektert over noen viktige spørsmål. Nå er det på tide å ta det hele ut fra klasserommet og inn i den delen av virkeligheten dere vil forske på. I dette kapittelet skal vi kort se nærmere på ulike forskningsmetoder dere kan bruke for å undersøke forskningsspørsmålet. Dere skal komme et godt stykke med det som står i dette heftet, men dere kan gjerne også se nærmere på litteraturtipsene som er gitt til hver forskningsmetode.
 
