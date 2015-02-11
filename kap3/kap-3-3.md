@@ -18,6 +18,11 @@ I intervjuguiden er det lurt å legge opp til spørsmål som krever at informant
 
 ## Ha folkeskikk, hold kjeft og husk batterier!
 
+<div class="caption left medium">
+    <img src="../images/voicememos.png" alt="Voice Memos i iOS">
+    <div class="caption-text">Med iOS-appen Voice Memos kan dere ta opp intevjuet.</div>
+</div>
+
 I begynnelsen av intervjuet, og helst når dere rekrutterer informanter er det viktig at dere er åpne og ærlige om hva dere holder på med, hva dere ønsker å finne ut, og hvordan dere har tenkt å bruke intervjuene. Dere skal ha et såkalt _informert samtykke_ fra informantene, det vil si at de skal ha forstått hva de er med på. Det er også vanlig å si at de når som helst, også under intervjuet, kan trekke seg, og at de vil få mulighet til å se hvordan intervjuet har blitt brukt i teksten før dere leverer den inn. Informanten gjør dere en tjeneste ved å stille opp, og derfor er det viktig at dere opptrer med respekt og folkeskikk.
 
 I nesten alle intervjusituasjoner, spesielt dersom man ikke har gjort det noe særlig før, oppstår pinlige situasjoner der man kan bli flau og usikker. De fleste av oss vil i slike situasjoner være veldig opptatt av hvordan vi fremstår for den andre, unngå å si noe som vil opprøre eller provosere samtalepartneren vår. Det kan være nyttig å tenke at dersom en person først har takket ja til å la seg intervjue, så er sjansen stor for at den personen har forståelse for dere ikke er ferdig utdanna feltarbeidere. Den sosiale usikkerheten man kanskje føler på når man er fersk intervjuer, vil man antagelivis finne hos de man intervjuer også. Det kan også hjelpe å tenke på folk flest synes det er litt stas når noen er såpass interessert i hva de har å si, at de kommer drassende med notatblokk og lydopptaker.
@@ -25,7 +30,7 @@ I nesten alle intervjusituasjoner, spesielt dersom man ikke har gjort det noe s�
 Om dere har tenkt at dere skal skrive ned alle svarene under intervjuet, så anbefaler jeg at dere skriver ned den tanken på et papir, tar den med ut i skolegården og brenner den opp (etter tillatelse fra rektor selvsagt). Med mindre dere er utrolig gode til å multitaske og skriver fortere enn dere klarer å snakke, så vil det ikke gå bra. Et dybdeintervju må spilles inn. Dere trenger med andre ord en dings som kan ta opp lyd. Før dere møter opp på det avtalte tidspunktet bør dere ha god kjenskap til hvordan denne dingsen virker og ha med en dings til i bakhånd. Det beste er om dere får låne en digital lydopptaker, men de fleste smart-telefoner har også mulighet for å gjøre lydopptak (se etter apper som [Voice Memos](http://www.macworld.com/article/2048983/get-to-know-ios-7-voice-memos.html)). Det er veldig lurt sette på lydopptak på telefonen sin samtidig som man tar lyden opp fra en annen kilde – bare husk å sette den i flymodus slik at den ikke forstyrrer under intervjuet. Tro meg, det vil ikke skje noe mer interessant ute i verden enn det som skjer under det intervjuet.
 
 <div class="caption right medium">
-    <img src="images/brenner.jpeg" alt="Susanne Sundfør og Hans Olav Brenner" />
+    <img src="../images/brenner.jpeg" alt="Susanne Sundfør og Hans Olav Brenner" />
     <div class="caption-text">Programleder Hans Olav Brenner er kjent som en god intervjuer. Han har [sagt i et intervju](http://www.aftenposten.no/meninger/kommentarer/Hans-Olav-Brenners-oppskrift-Hold-kjeft_-i-blant-7719852.html) at det hjelper å holde kjeft, i blant. Bildet er hentet fra programmet _Brenner: historier fra vårt land_  </div>
 </div>
 
