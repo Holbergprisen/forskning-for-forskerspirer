@@ -8,7 +8,7 @@ Akkurat som med tall i statistisk analyse så har vi i innholdsanalyse noen grun
 
 Dersom forskningspørsmålet skal belyses gjennom hva dere kan finne i tekstene er det viktig å spørre seg hva dere ser etter. Tenk på dere selv som etterforskere som skal studere et åsted, dere er først nødt til å granske det nøye for de typiske sporene, og merke disse av, legge bevismaterialet i sånne små poser med lynlås, ta bilder av bevismaterialet i sin sammenheng og gjenfortelle til dere selv og til partneren hva som kan ha skjedd her. Vi tenker litt på samme måte når det gjelder tekster.
 
-> **hint** **Koder** er nøkkelord som hjelper dere å få oversikt og finne sammenhenger i et tekstkorpus. **Koding** er i denne sammenhengen den delen av analysen hvor dere utvikler og bruker disse kodene.
+>    **Koder** er nøkkelord som hjelper dere å få oversikt og finne sammenhenger i et tekstkorpus. **Koding** er i denne sammenhengen den delen av analysen hvor dere utvikler og bruker disse kodene.
 
 Dersom dere for eksempel er interesserte i å finne ut noe om hvilke personer som opptrer i tekstmaterialet, så kan dere tenke at dere vil finne beviser for det. Da ser dere etter alle ganger de interessante personene blir beskrevet, eller sier noe om seg selv i tekstene. Det kan være alt fra utseende, personlige meninger, handlinger og uttalelser. Da leser dere gjennom tekstene og merker av alle de stedene hvor disse «bevisene» kommer frem med bestemte nøkkelord. Har dere tekstene i et regneark så er det lettest å bruke kolonnene bortover. Det er ikke alltid dere helt vet hva som kan være interessant, eller hvilke koder som er relevante for forskningsspørsmålet. Det er ingen ting i veien for å lage ekstra koder i tillegg til de dere har bestemt dere for. Det kan også være en grei måte å kjapt markere hva som er relevant og interessant i en tekst. Det er lurt å jobbe seg frem til koder som kan brukes på nytt, det vil at dere kan finne de samme kodene i tekstutdragene. Da er det nemlig mye lettere å søke seg frem, bearbeide og sortere funnene.
 
@@ -52,7 +52,7 @@ Spørsmål som _kan_ hjelpe dere på vei:
   * Hvilke koder og tekstutdrag gir et enhetlig bilde?
   * Hvilke koder og tekstutdrag virker motstridende?
 
-## **Fra hva og hvordan til hvorfor.**
+## Fra *hva* og *hvordan* til *hvorfor*
 
 Det å beskrive tekstkorpuset og hva det sier om forskningsspørsmålet er egentlig relativt enkelt. Det kan fort bli veldig oppsummerende og kanskje til og med føles litt «åpenbart» og meningsløst. Da må dere huske på at det er fordi dere nå har jobbet såpass mye med disse tekstene at dere kjenner dem godt. Dere er nå på sett og vis eksperter på deres felt, og da vil mye virke selvinnlysende. Sånn er det antagelivis ikke for oss andre. Derfor skal dere skrive kortfattet om hva det er i tekstene som belyser forskningsspørsmålet og hvordan dette kommer til uttrykk.
 
@@ -64,4 +64,4 @@ Kanskje taler datamaterialet for seg selv, kanskje ser dere en klar sammenheng s
   * Er det sannsynlig at deres forklaringer også gjelder for datamaterialet dere har samlet og arbeidet med?
   * Om det er vanskelig å komme med klare og entydige forklaringer på _hvorfor_, kan dere også konkludere med å stille nye spørsmål og forslag til hvordan dere ville gått videre med denne forskningen. Se for dere at dere skal begynne på universitetet og forske videre. Hva ville dere gjort da, og hvorfor?
 
-** En annen måte å konkludere på er å forklare hvorfor noe ikke er som dere først trodde. Fikk dere avkreftet noen fordommer eller antagelser?**
+<div class="boks">En annen måte å konkludere på er å forklare hvorfor noe ikke er som dere først trodde. Fikk dere avkreftet noen fordommer eller antagelser?</div>

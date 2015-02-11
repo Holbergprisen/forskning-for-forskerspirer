@@ -34,4 +34,13 @@ Når dere skal samle inn data fra nettsider og lignende er det beste å bruke pr
 
    [1]: https://docs.google.com/
 
-**Husk at sosiale medier som for eksempel Facebook og en del nettforum er private. Selv om dere har personlig tilgang på tekster her, er det ikke sikkert at de som har lagt dem ut synes det er greit at det brukes i et forskningsprosjekt. I Holbergprisen i skolen vil vi være på den sikre siden og fraråder derfor å forske på sosiale medier som Facebook og Instagram. Skal dere forske i sosiale medier skal det være godkjent av lærer først. Heldigvis er det nok av interessante forskningsspørsmål å ta tak i der ute**
+<div class="boks">Husk at sosiale medier som for eksempel Facebook og en del nettforum er private.</div>
+
+Selv om dere har personlig tilgang på tekster her, er det ikke sikkert at de som har lagt dem ut synes det er greit at det brukes i et forskningsprosjekt. I Holbergprisen i skolen vil vi være på den sikre siden og fraråder derfor å forske på sosiale medier som Facebook og Instagram. Skal dere forske i sosiale medier skal det være godkjent av lærer først. Heldigvis er det nok av interessante forskningsspørsmål å ta tak i der ute.
+
+##Lesetips
+
+-   [_En kort bok om sosiale medier_ av Ida Aalen, 2013](http://urn.nb.no/URN:NBN:no-nb_digibok_2013071208106)
+-   [_Gi meg en scene! : norsk blogghistorie : terror, traumer og dagens outfit_ av Kristian Bjørkelo, 2013](http://urn.nb.no/URN:NBN:no-nb_digiebok_1440)
+-   [_Tekstens autoritet: Tekstanalyse og skriving i akademia av Brodersen, Bråten, Reiersgaard, Slethei og Ågotnes, 2007](http://urn.nb.no/URN:NBN:no-nb_digibok_2012112206285)
+-

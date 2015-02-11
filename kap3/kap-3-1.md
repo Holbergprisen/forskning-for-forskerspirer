@@ -1,7 +1,6 @@
 # Spørreskjema: Det spørs på skjema!
 
-
-Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «<a href="https://snl.no/pantograf%2Fapparat_for_å_gjengi_tegninger">pantograf</a>» og hullkort. <img class="right small" src="../images/pantograph.jpeg" alt="Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «pantograf» og hullkort. Dette er fra den amerikanske folketellingen rundt 1940." title="Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «pantograf» og hullkort. Dette er fra den amerikanske folketellingen rundt 1940." />
+<div class="caption right medium"><img class="right small" src="../images/pantograph.jpeg" alt="Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «pantograf» og hullkort. Dette er fra den amerikanske folketellingen rundt 1940." title="Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «pantograf» og hullkort. Dette er fra den amerikanske folketellingen rundt 1940." /><div class="caption-text">Her blir et spørreskjema fra befolkningsundersøkelser overført ved hjelp av en «<a href="https://snl.no/pantograf%2Fapparat_for_å_gjengi_tegninger">pantograf</a>» og hullkort.</div></div>
 
 Bruk av spørreskjema er kanskje en av de mest brukte innsamlingsmetodene, ikke bare i Holbergprisen i skolen, men i samfunnsvitenskapelig forskning i det hele tatt. I forskningsøyemed er spørreskjema og måten det brukes på, en relativt ny oppfinnelse. Den britiske altmuligmannen Francis Galton (1822–1911) var den første som brukte spørreskjema og visse statistiske metoder for å forske på menneskesamfunn. Grunnen til at spørreskjema er mye brukt er at det er en kostnadseffektiv måte å samle inn større mengder strukturert data på. Nøkkelordet her er «strukturert». At et spørreskjema, eller et intervju er strukturert, betyr egentlig at alle spørsmålene følger en bestemt rekkefølge og har forhåndsbestemte svaralternativer. Dette gjør det enkelt å oversette alle responsene til verdier som igjen kan inngå i statistiske analyser.
 
@@ -16,11 +15,14 @@ Dersom du søker på «how to make a questionnaire» i Google får du i overkant
 Å forske handler i stor grad om å tenke og diskutere. Det dere kan begynne med er å lage et idékart over spørsmål som dere synes virker relevante. Skriv dem ned. Finn gjerne flere måter å formulere det samme spørsmålet på. Det bør ikke ta for lang tid før dere har en del spørsmål, kanskje til og med med svaralternativer. Grunnen til vi begynner med en slik idémyldring er for å ta vare på ideene og forutantagelsene dere har om forskningsspørsmålet.
 
 Det er nemlig veldig stor sjanse for at noen andre allerede har forsket på noe som ligner det dere skal forske på, eller kommet på de samme tingene å spørre om. Det er også sannsynlig at disse forskerne har hatt mye mer tid, erfaring og ressurser enn dere til å utforme gode spørreskjema. Akkurat det kan komme dere til nytte! I forskning er det nemlig lov, og helt nødvendig, å bygge på andre sine erfaringer. Så lenge man henviser til hvor man har fått idéene fra. Det neste steget blir for dere å finne ut om det finnes eksisterende spørreskjema relatert til det dere holder på med.
-<p><a class="medium center" href="http://urn.nb.no/URN:NBN:no-nb_digibok_2007090704001"><img id="sommansprfrmansvaravtovemordal" src="../images/mordal.png" alt="Som man spør får man svar av Tove Mordal" title="Som man spør får man svar av Tove Mordal" /></a><blockquote>
-  <p><em>Som man spør får man svar</em> av Tove Mordal er en gammel, men god innføringsbok i spørreskjema-metode.</p>
-</blockquote></p>
 
-Dere kan selvfølgelig begynne med å lete frem spørreskjemaene til store undersøkelser som _World Values Survey_ og _International Social Survey Programme_ (se infoboks) som dere får tilgang på gjennom Norsk Samfunnvitenskapelig Datatjeneste. Dere kan også prøve å søke i [_Google Scholar_](!g scholar), [_DUO_](!g "uio duo"), eller [_BORA_](!g "uib bora") om dere finner spørreskjema der. Det finnes flere tonn med metodebøker som gir snedige og godt uttenkte retningslinjer for hvordan man skal lage spørreskjema. En av de bedre bøkene på norsk er _Som man spør, får man svar_ (1989) av Tove L. Mordal. Den virker kanskje ikke like ny og moderne som en del andre metodebøker, men det er grunn til at permene ser så slitt ut på den digitale utgaven til Nasjonalbiblioteket: Den har blitt brukt mye, fordi den er god.
+<div class="caption right medium"><a href="http://urn.nb.no/URN:NBN:no-nb_digibok_2007090704001"><img id="sommansprfrmansvaravtovemordal" src="../images/mordal.png" alt="Som man spør får man svar av Tove Mordal" title="Som man spør får man svar av Tove Mordal" /></a><div class="caption-text"><a href="http://urn.nb.no/URN:NBN:no-nb_digibok_2007090704001"><em>Som man spør får man svar</em> av Tove Mordal</a> er en gammel, men god innføringsbok i spørreskjema-metode.</div></div>
+
+Dere kan selvfølgelig begynne med å lete frem spørreskjemaene til store undersøkelser som _World Values Survey_ og _International Social Survey Programme_ (se infoboks) som dere får tilgang på gjennom Norsk Samfunnvitenskapelig Datatjeneste. Dere kan også prøve å søke i [_Google Scholar_][3023-0001], [_DUO_][3023-0002], eller [_BORA_][3023-0003] om dere finner spørreskjema der. Det finnes flere tonn med metodebøker som gir snedige og godt uttenkte retningslinjer for hvordan man skal lage spørreskjema. En av de bedre bøkene på norsk er [_Som man spør, får man svar_](http://urn.nb.no/URN:NBN:no-nb_digibok_2007090704001) (1989) av Tove L. Mordal. Den virker kanskje ikke like ny og moderne som en del andre metodebøker, men det er grunn til at permene ser så slitt ut på den digitale utgaven til Nasjonalbiblioteket: Den har blitt brukt mye, fordi den er god.
+
+[3023-0001]: http://scholar.google.com/
+[3023-0002]: https://www.duo.uio.no/
+[3023-0003]: https://bora.uib.no/
 
 Det er selvsagt også mulig å spørre forskere og fagpersoner om hjelp. De kan ofte peke dere i riktig retning og komme med verdifulle erfaringer. Noen vil kanskje være skeptiske til å gi fra seg egne metodeopplegg, noe man skal ha forståelse for, ettersom det ofte ligger mye arbeid bak og man ikke vil risikere at det blir brukt på måter som det ikke var tiltenkt. Igjen, det er viktig å huske på at det ikke er rimelig at andre skal gjøre tankearbeidet for dere. Derfor, når dere skal ta kontakt med noen, kan det være lurt å skrive kort hva dere har gjort og tenkt og være konkrete i hva dere spør om.
 
@@ -43,11 +45,11 @@ Lenker til spørreskjematjenester på web
 
   * [SurveyMonkey][7406-0001]
   * [Wufoo][7406-0002]
-  * [Google Docs][7406-0003]
+  * [Google Forms][7406-0003]
 
 [7406-0001]: https://www.surveymonkey.com/
 [7406-0002]: http://www.wufoo.com/
-[7406-0003]: http://www.google.com/forms/about/
+[7406-0003]: http://www.google.com/forms/
 
 Dersom dere bruker spørreskjema over web vil dere som oftes kunne velge mellom forskjellige spørsmålstyper. Som dere sikkert vet finnes det forskjellige måter å oppgi et spørsmål og svaralternativer på. Dette kan dere finne mye mer om i metodelittatur, men her er de viktigste å vite om:
 
@@ -63,9 +65,9 @@ Eksempel: Hva er ditt hovedmål?
 
 Eksempel: Hvilke av disse strømmetjenestene bruker du? (kryss av for de som passer)
 
--   [ ] Spotify
+-   [x] Spotify
 -   [ ] WiMP
--   [ ] YouTube
+-   [x] YouTube
 -   [ ] Netflix
 -   [ ] Sumo
 -   [ ] NRK.no
@@ -83,18 +85,25 @@ Eksempel: Bør det være obligatorisk med sidemål i norsk skole?
 
 **Åpne spørsmål**
 
-Eksempel: Er du bekymret for klimaendringene? Skriv kort om hvorfor hvorfor ikke?
+Eksempel: Er du bekymret for klimaendringene? Skriv tre setninger om hvorfor\hvorfor ikke?
 
-Tenk dere godt om når dere lager spørsmålene:
+## Tenk dere godt om når dere lager spørsmålene:
 
   * Er spørsmålstillingen entydig, eller kan den (mis)forstås på flere måter?
   * Er spørsmålet ledene eller tungt på den ene siden?
   * Fanger dere opp de som ikke kan svare på spørsmålet?
   * Er det noen av spørsmålene som er personsensitive?
 
-Husk!
+## Husk!
 
-  * Det er bedre med fem gode spørsmål enn femten dårlige
-  * Folk er utålmodige! Det er lurt å på forhånd gi dem en idé om hvor lang tid skjemaet vil ta
-  * Det kan være lurt å ha med et «vet ikke»-svaralternativ
-  * Begynn med spørsmål som er enkle å svare på, da «lokker» dere respondenten til komme i gang
+  * Det er bedre med fem gode spørsmål, enn femten dårlige spørsmål
+  * Folk er utålmodige! Det er lurt å på forhånd gi dem en idé om hvor lang tid skjemaet vil ta å fylle ut
+  * Det kan være lurt å ha svarlalternativ som fanger opp hvorfor man ikke vil svare på et spørsmål: For eksempel «vet ikke»\«vil ikke svare».
+  * Begynn gjerne med spørsmål som er enkle å svare på, da «lokker» dere respondenten til komme i gang
+  * Det er vanlig å ha såkalte «bakgrunnsvariabler» som kjønn og alder tilslutt i et spørreskjema
+
+## Lesetips
+
+-   [_Som man spør får man svar_ av Tove Mordal, 1989](http://urn.nb.no/URN:NBN:no-nb_digibok_2007090704001)
+-   [_Samfunnsvitenskapelige metoder_ av Sigmund Grønmo, 2004](http://bibsys-primo.hosted.exlibrisgroup.com/NB:BIBSYS_ILS961798580)
+
