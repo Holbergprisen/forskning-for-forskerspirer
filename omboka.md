@@ -6,6 +6,15 @@ Forskningsmetode handler mye om de erfaringene man gjør i møte med det man for
 
 Om du som nå leser dette er forsker selv, så vil du kanskje reagere på at denne boken ikke nevner det som for deg er helt sentrale metodiske problemstillinger eller ikke gir den helt ferske og optimaliserte teknikken som nylig har blitt publisert i ditt felt. Du har helt rett. Denne boka er først og fremst skrevet for elever i videregående skole. De er ikke så fremmed for mange av de metodiske utfordringene vi selv møter (det har skjedd _mye_ i norskfaget de siste årene), men dette er samtidig sannsynligvis deres første skikkelig akademiske arbeid. Vi må alltid ta et steg om gangen, og dette er omtrent det første steget. Når det er sagt, om du har innspill, konstruktiv kritikk eller noe på hjertet, så er du mer enn velkommen å sende meg en [e-post](mailto:knut.melvar@uib.no). Fordelen med å skrive en digital bok, er at den ikke blir satt i stein (eller papir for den saks skyld… med mindre du tar en utskrift av den).
 
+Jeg har stort sett skrevet denne boka på [bussen mellom Os og Bergen][0738-0001] i [Sublime Text 3][0738-0002] på min [MacBook Air 13"][0738-0003]. Den er skrevet med [Markdown][0738-0004] som lastes opp på [GitHub](http://github.com/kmelve/forskning-for-forskerspirer) hvor den blir sendt videre til [GitBook.io](http://gitbook.io). Jeg har hatt god nytte av [SearcLink][0738-0005] som gjør det enkelt å legge inn lenker i teksten, og har brukt [Google Docs][0738-0006] i redigeringsarbeidet sammen med de flinke medarbeiderne i [Holbergprisen](http://holbergprisen.no/kontakt.html).
+
+[0738-0001]: https://www.skyss.no/
+[0738-0002]: http://www.sublimetext.com/3
+[0738-0003]: http://support.apple.com/kb/SP631
+[0738-0004]: http://daringfireball.net/projects/markdown/syntax
+[0738-0005]: http://brettterpstra.com/projects/searchlink/
+[0738-0006]: http://www.google.com/docs/about/
+
 ## Hvordan bruke denne boka
 
 Denne boka er først og fremst laget for en digital skjerm. Derfor er tekststykkene litt kortere. Det vil også kunne komme små oppdateringer her og der. Det betyr at dersom dere skal refere til denne boka, så bør dere gjøre det til den digitale versjonen som ligger på nettet. Foreløbig kan dere gjøre det som dere gjør med en vanlig nettside. Her med referansestilen [Chicago forfatter-år](http://sokogskriv.no/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/):
