@@ -8,7 +8,7 @@ I arbeidet med intervjuguiden bør dere også tenke på hvem dere skal intervjue
 
 I intervjuguiden er det lurt å legge opp til spørsmål som krever at informanten må tenke og begrunne svarene sine. Man kan stille ja-nei-spørsmål, men da bør man komme med oppfølgingsspørsmål som for eksempel «hvorfor det?», «kan du utdype?», «mener du alltid dette?» eller «har du noen gang ment det motsatte?». Det kan være greit å skrive opp sånne generelle fraser i intervjuguiden også, siden det kan være vanskelig å komme på av seg selv underveis. Det er nemlig når folk må begrunne sine holdninger og standpunkt de virkelige interessante tingene dukker opp, det er disse tingene som vil hjelpe dere å forstå og belyse forskningsspørsmålet: Refleksjoner som gjerne ikke blir uttalt i det daglige.
 
-Hvordan avtale et intervju:
+## Hvordan avtale et intervju:
 
   * Fortell kort hvem dere er, hva dere ønsker å finne ut, og hvor lang tid dere regner med intervjuet skal ta.
   * Det kan være greit å avtale i god tid, men husk å bekreft avtalen et par dager i forveien.

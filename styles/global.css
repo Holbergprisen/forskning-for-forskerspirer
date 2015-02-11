@@ -49,6 +49,7 @@ h1, h2, h3 {
     border-bottom: 1px solid;
     padding: 0.5em 0 0.5em 0;
     clear: both;
+    box-sizing: content-box;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal blockquote[id*="fn"] {
@@ -70,12 +71,10 @@ h1, h2, h3 {
 }
 .caption  .caption-text {
     font-size: 0.9em;
-    font-family: serif;
     text-align: left;
     margin: 0 0.4em;
 }
 .caption img {
-    margin 0 auto;
-    text-align: center;
+    margin: 0 auto;
     width: 100%;
 }
