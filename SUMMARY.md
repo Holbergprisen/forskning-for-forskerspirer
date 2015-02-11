@@ -1,6 +1,7 @@
 # SUMMARY
 
 *   [Forord](forord.md)
+*   [Om denne boka](omboka.md)
 *    [Kom i gang med forskningen!](kap1/kap-1.md)
     * [God forskning starter med gode spørsmål](kap1/kap-1-1.md)
     * [Hvordan stille gode forskningsspørsmål](kap1/kap-1-2.md)
