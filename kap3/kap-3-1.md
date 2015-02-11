@@ -20,7 +20,7 @@ Det er nemlig veldig stor sjanse for at noen andre allerede har forsket på noe 
 [![Som man spør får man svar av Tove Mordal][1]][2]
 >   _Som man spør får man svar_ av Tove Mordal er en gammel, men god innføringsbok i spørreskjema-metode.
 
-   [1]: ..images/mordal.png
+   [1]: ../images/mordal.png
    [2]: http://urn.nb.no/URN:NBN:no-nb_digibok_2007090704001
 
 Dere kan selvfølgelig begynne med å lete frem spørreskjemaene til store undersøkelser som _World Values Survey_ og _International Social Survey Programme_ (se infoboks) som dere får tilgang på gjennom Norsk Samfunnvitenskapelig Datatjeneste. Dere kan også prøve å søke i [_Google Scholar_](!g scholar), [_DUO_](!g "uio duo"), eller [_BORA_](!g "uib bora") om dere finner spørreskjema der. Det finnes flere tonn med metodebøker som gir snedige og godt uttenkte retningslinjer for hvordan man skal lage spørreskjema. En av de bedre bøkene på norsk er _Som man spør, får man svar_ (1989) av Tove L. Mordal. Den virker kanskje ikke like ny og moderne som en del andre metodebøker, men det er grunn til at permene ser så slitt ut på den digitale utgaven til Nasjonalbiblioteket: Den har blitt brukt mye, fordi den er god.
