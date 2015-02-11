@@ -49,6 +49,5 @@ I forbindelse med tekstanalyse betyr _koding_ at vi merker og markerer i teksten
 
 # Personsenitive data
 
-Fra [nsd.uib.no][5400-0001] «Sensitive opplysninger er informasjon om rasemessig eller etnisk bakgrunn, politisk, filosofisk eller religiøs oppfatning, at en person har vært mistenkt, siktet, tiltalt eller dømt for en straffbar handling, helseforhold, seksuelle forhold, og medlemskap i fagforeninger.»
+Fra [nsd.uib.no](http://www.nsd.uib.no/): «Sensitive opplysninger er informasjon om rasemessig eller etnisk bakgrunn, politisk, filosofisk eller religiøs oppfatning, at en person har vært mistenkt, siktet, tiltalt eller dømt for en straffbar handling, helseforhold, seksuelle forhold, og medlemskap i fagforeninger.»
 
-[5400-0001]: http://www.nsd.uib.no/
