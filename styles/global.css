@@ -32,6 +32,7 @@ img {
 }
 h1, h2, h3 {
     color: #a32e8b;
+    clear: both;
 }
 .book .book-body .page-wrapper .page-inner section.normal blockquote {
     color: #333;
