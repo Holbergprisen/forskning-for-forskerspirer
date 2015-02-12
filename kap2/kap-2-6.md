@@ -34,4 +34,4 @@ Spør læreren om hvor mange timer dere har til rådighet. Mesteparten av denne 
   * Analyse
   * Skriving av forskningsrapport
 
-** I praksis vil arbeidet med disse tingene overlappe hverandre. Forskningsrapporten har dere allerede begynt på (dersom dere har fulgt de gode rådene over). Dere bør for eksempel tett opp til datainnsamlingen skrive ned noen refleksjoner om hvordan den gikk. Mye av analysen gjør dere når dere skriver om datamerialet. **
+I praksis vil arbeidet med disse tingene overlappe hverandre. Forskningsrapporten har dere allerede begynt på (dersom dere har fulgt de gode rådene over). Dere bør for eksempel tett opp til datainnsamlingen skrive ned noen refleksjoner om hvordan den gikk. Mye av analysen gjør dere når dere skriver om datamerialet.
