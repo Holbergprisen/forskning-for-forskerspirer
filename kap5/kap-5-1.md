@@ -26,36 +26,36 @@ Det er også utrolig viktig å gi hverandre kred i vitenskapen. Vanligvis gjøre
 
 ## Forslag til struktur
 
-  * Kort intro (2)
+  * Kort intro (2 sider)
 
     * Hva handler forskningsprosjektet om?
     * Hvorfor er det interessant?
     * Hva håper dere å lære noe mer om?
     * Hva er forskningsspørsmålet og hvordan kom dere frem til det?
 
-  * Kort bakgrunn (1-2)
+  * Kort bakgrunn (1-2 sider)
 
     * Har det blitt gjort forskning på dette før?
     * Kort bakgrunn for det dere skal forske på (hva, hvor, når, hvem osv).
 
-  * Kort metodevalg (1-2)
+  * Kort metodevalg (1-2 sider)
 
     * Hvordan valgte dere forskningsmetode?
     * Hva vurderer dere forskningsetikken i prosjektet?
     * Hvordan og hvorfor går dere frem som dere gjør?
 
-  * Refleksjoner fra datainnsamlingen (to store utfordringer) (1)
+  * Refleksjoner fra datainnsamlingen (to store utfordringer) (1 side)
 
     * Hva gikk etter planen, og hva gikk ikke etter planen?
 
-  * Refleksjoner fra analysen av datamaterialet (5)
+  * Refleksjoner fra analysen av datamaterialet (5 sider)
 
     * Kvantitativ og kvalitativ oversikt over datamaterialet?
     * Gjennomgang av relevante funn.
     * Hva er fremtredende, viktig eller interessant?
 
-  * Refleksjoner om hvorfor\hvordan analysen belyser forskningsspørsmålet (3)
-  * Refleksjoner om hvordan forskningsprosjektet har gått (1)
+  * Refleksjoner om hvorfor\hvordan analysen belyser forskningsspørsmålet (3 sider)
+  * Refleksjoner om hvordan forskningsprosjektet har gått (1 side)
 
     * Hva kunne dere gjort annerledes?
     * Hvor kunne dere tatt forskningen videre?
