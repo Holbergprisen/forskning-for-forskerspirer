@@ -48,5 +48,4 @@ Den påstanden som fremmes i en hypotese undersøkes ved å «teste»den i det e
 I forbindelse med tekstanalyse betyr _koding_ at vi merker og markerer i teksten for å gjøre det lettere å trekke ut meningsinnhold og det som er relevant for forskningsspørsmålet. Dette kan gjøres på mange forskjellige måter enten digitalt eller på fysisk papir. Koding kan enten gjøres med forhåndsbestemte koder eller bygges opp gradvis gjennom mange gjennomlesninger. Koding kan også brukes for å forske kvantitativt på et tekstmateriale.
 
 # Personsenitive data
-
-<p>Fra <a href="http://www.nsd.uib.no/">nsd.uib.no</a>: «Sensitive opplysninger er informasjon om rasemessig eller etnisk bakgrunn, politisk, filosofisk eller religiøs oppfatning, at en person har vært mistenkt, siktet, tiltalt eller dømt for en straffbar handling, helseforhold, seksuelle forhold, og medlemskap i fagforeninger.»</p>
+Fra nsd.uib.no: «Sensitive opplysninger er informasjon om rasemessig eller etnisk bakgrunn, politisk, filosofisk eller religiøs oppfatning, at en person har vært mistenkt, siktet, tiltalt eller dømt for en straffbar handling, helseforhold, seksuelle forhold, og medlemskap i fagforeninger.»
