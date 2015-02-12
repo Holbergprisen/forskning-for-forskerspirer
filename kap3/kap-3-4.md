@@ -22,7 +22,7 @@ Den grenen som kalles _deltagende observasjon_ gir dere en annen nærhet til for
 
 Om dere får lov, eller om det er på et offentlig sted, vil det være nyttig å ta bilder, lydopptak eller video under feltarbeidet. Dere kan også be de dere forsker på å selv ta lydopptak, bilder og video av det de holder på med.
 
-## Observasjonsprotokollen…
+## Observasjonsprotokollen
 
 *   skal stille spørsmål til feltet
 *   må ikke være for stor eller for kompleks. Maks én A4-side.
