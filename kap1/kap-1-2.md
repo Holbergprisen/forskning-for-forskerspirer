@@ -35,4 +35,7 @@ Forskning som forsøker å si noe mer om årsaksforhold eller som søker å fork
 
 En modell (må ikke forveksles med slike som har på seg den nyeste moten) er en forenkling som viser hvordan noe er bygd opp eller henger sammnen. Forskere bruker modeller for å gjøre dette lettere å praktisk gjennomføre forskningen og for å enkelt formidle den. Om vi forsker samfunnsvitenskapelig kan vi for eksempel tegne opp et kart med relevante sosiale aktører (for eksempel personer, bedrifter eller institusjoner) og tegne linjer mellom dem som markerer hieraki, innflytelse eller andre relasjoner. Da blir det lettere å ha det klart for seg hva man skal se nærmere på. En modell kan også være hypotetisk på den måten at dere skisserer hvordan dere tenker sammenhengene eller relasjonene er, og så prøve å avkrefte(!) dette. En modell trenger ikke å være grafisk, den kan også beskrives skriftlig.
 
-<!-- @TODO sette inn illustrasjon  -->
+<div class="caption">
+    <img src="../images/modell.gif" alt="Modell fra NOU 1998:18">
+    <div class="caption-text"><p>Her er en modell om maktesløshet og «empowerment» hentet fra <a href="https://www.regjeringen.no/nb/dokumenter/nou-1998-18/id141324/?docId=NOU199819980018000DDDEPIS&q=&navchap=1&ch=4">NOU 1998 (18): Det er bruk for alle — Styrking av folkehelsearbeidet i kommunen</a> som igjen er hentet fra Nina Wallersteins artikkel «Powerlessness, Empowerment and Health: Implications for Health Promotion Programs» i *American Journal of Health Promotion*, 1992, Vol. 6, No 3 s. 197 - 205.</p><p> Ser dere hvilke antagelser den innholder om årsak og virkning? Hvilke forbindelser mellom det sosiale og sykdom foreslår den? Er denne modellen lett å forstå?</p></div>
+</div>
