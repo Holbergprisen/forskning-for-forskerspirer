@@ -43,4 +43,3 @@ Selv om dere har personlig tilgang på tekster her, er det ikke sikkert at de so
 -   [_En kort bok om sosiale medier_ av Ida Aalen, 2013](http://urn.nb.no/URN:NBN:no-nb_digibok_2013071208106)
 -   [_Gi meg en scene! : norsk blogghistorie : terror, traumer og dagens outfit_ av Kristian Bjørkelo, 2013](http://urn.nb.no/URN:NBN:no-nb_digiebok_1440)
 -   [_Tekstens autoritet: Tekstanalyse og skriving i akademia_ av Brodersen, Bråten, Reiersgaard, Slethei og Ågotnes, 2007](http://urn.nb.no/URN:NBN:no-nb_digibok_2012112206285)
--
