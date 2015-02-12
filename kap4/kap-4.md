@@ -6,4 +6,4 @@ Det er både enkelt og vanskelig å analysere et datamateriale. Det er enkelt fo
 
 Analysen blir vanskeligere når vi skal begynne å trekke ut konklusjoner og — ikke minst – tolkninger og forklaringer på det vi finner ut. Dere må gjerne tenke på det i dusjen[^1], sove på det, og snakke en del om det dere har foran dere.
 
-[^1]: Professor [Anders Johansen](http://www.uib.no/personer/Anders.Johansen) snakker i en video laget for [Søk og Skriv](http://sokogskriv.no) om BBB-situasjonene: «_Bus, Bath & Bedrom_». Det er ofte her man kommer på nye ideer eller løsninger.
+[^1]: Professor [Anders Johansen](http://www.uib.no/personer/Anders.Johansen) snakker [i en video laget](https://www.youtube.com/watch?v=FOwhrXNnHNI&spfreload=10) for [Søk og Skriv](http://sokogskriv.no) om BBB-situasjonene: «_Bus, Bath & Bedrom_». Det er ofte her man kommer på nye ideer eller løsninger.
