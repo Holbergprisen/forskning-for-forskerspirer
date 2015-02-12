@@ -12,6 +12,8 @@ Dere trenger heller ikke å samle inn selve datamaterialet selv. Det finnes alle
 
 Statistikk kan være veldig spennende og fortelle oss en hel del om vår egen historie. Se for eksempel [denne videoen](https://www.youtube.com/watch?v=jbkSRLYSojo) med Hans Rosling som forsker på global helse og er kjent for å gjøre statistikk morsomt og engasjerende.
 
+{% youtube %}https://www.youtube.com/watch?v=jbkSRLYSojo{% endyoutube %}
+
 ## Lesetips
 
 Det finnes [mange tonn](https://www.google.com/search?q=statistics&btnG=Search+Books&tbm=bks&tbo=1) med introduksjonsbøker til statistikk. Mange av dem er skrevet for de som ikke liker matematikk eller tror at statistikk er spesielt vanskelig. Det meste er selvsagt på engelsk, men det finnes noen norske også.
