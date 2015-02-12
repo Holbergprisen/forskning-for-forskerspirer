@@ -6,7 +6,7 @@ Forskere tar i bruk kvantitative metoder når de ønsker tallfeste noe, eller «
 
 Med kvalitative metoder søker vi først og fremst å forstå materialet. Det innebærer å finne meningsinnholdet, sette det i en større sammenheng (eller *kontekst*, som man ofte sier) og/eller vurdere hva det kan fortelle oss om vår fortid og samtid. Dersom man skal forske på et nytt felt er det nesten alltid hensiktsmessig å begynne med kvalitative metoder for å få en idé om hva som er viktig, sentralt eller — på den andre siden — irrelevant og perifert. Med kvalitative metoder forsøker vi å sette noe inn i en sammenheng, fra visse teoretiske perspektiv og med forskjellige tolkningsstrategier.
 
-Det er ingen nødvendig motsetning mellom kvalitative og kvantitative metoder.
+<div class="boks">Det er ingen nødvendig motsetning mellom kvalitative og kvantitative metoder. I dette prosjekt bør dere allikevel bestemme dere for hvilken metode dere vil jobbe mest med.</div>
 
 ## Lesetips
 
