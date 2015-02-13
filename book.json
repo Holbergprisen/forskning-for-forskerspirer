@@ -6,6 +6,7 @@
     "isbn": null,
     "extension": null,
     "version": "2.0.0",
+    "language": "no",
     "plugins": ["-mathjax", "-autocover@1.2.1", "youtube"],
     "pluginsConfig": {
         "fontSettings": {
