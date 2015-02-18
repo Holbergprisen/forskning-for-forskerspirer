@@ -8,6 +8,9 @@ Ordet kildekritikk kan høres ut som at man skal være negativt innstilt til dat
 
 Selv om ordet kildekritikk er mest utbredt i historiefaget, er det egentlig noe de fleste fag og forskere driver med. Vi er ikke bare kildekritiske til datamaterialet og kildene våre, vi er også kildekritiske når vi leser annen forskning eller kilder til kunnskap. Har dere for eksempel tenkt på hvem som har skrevet lærebøkene dere bruker. Vet dere noe om hvem de er, eller hvordan de har gått frem for å komme til kunnskapen sin? Hvordan kan dere vite at det jeg skriver om forskning i denne digitale boken gir et pålitelig bilde av hvordan forskere arbeider? Å være kildekritisk betyr ikke at dere ikke lengre kan stole på at kilder eller personer gir et korrekt bilde av virkeligheten, men at dere er nødt til å kikke dem nærmere i kortene.
 
+Videoblogg med forfatteren [John Green](!s "John Green") om hvorfor det er viktig med sitatsjekk.
+{% youtube %}https://www.youtube.com/watch?v=xVN9nenCGwM{% endyoutube %}
+
 Når vi i Holbergprisen i skolen vil at dere skal være kildekritiske betyr det at i er interesserte i hvordan dere vurderer kildene. Å være kildekritisk betyr ikke nødvendigvis at dere må være 100 prosent sikre på kildene for å bruke dem, eller at dere må se vekk i fra alt som dere er usikre på. Sånn er det aldri for forskere. Det er helt greit å være usikker, men da er det viktig å fortelle _hvorfor_ dere er det, og gjerne hva dere kunne ha gjort dersom dere hadde hatt mer tid og ressurser.
 
 1.    Har tenkt på hvilke typer kilder dere bruker og hvordan de er forskjellige.
