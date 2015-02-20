@@ -1,9 +1,9 @@
 body {
-
     font-size: 16px;
 }
-p, ul, li {
-
+p {
+    font-size: 1.2em;
+    line-height: 1.4em;
 }
 .book .book-body .page-wrapper .page-inner section.normal a {
     color: #a32e8b;
@@ -76,7 +76,7 @@ h1, h2, h3 {
     line-height: 1em;
 }
 .caption  .caption-text {
-    font-size: 0.9em;
+    font-size: 1em;
     text-align: left;
     margin: 0 0.4em;
 }
