@@ -24,7 +24,7 @@
     *   [Kildekritikk](kap4/kap-4-1.md)
     *   [Lag en kodebok](kap4/kap-4-2.md)
     *   [Kvantitative analyseteknikker](kap4/kap-4-3.md)
-    *   [Kvalitativ analyse](kap4/kap-4-5.md)
+    *   [Kvalitativ analyse](kap4/kap-4-4.md)
     *   [Innholdsanalyse: Still spørsmål til teksten](kap4/kap-4-5.md)
 *    [Forskning må formidles](kap5/kap-5.md)
     *   [Forskningsartikkelen](kap5/kap-5-1.md)
